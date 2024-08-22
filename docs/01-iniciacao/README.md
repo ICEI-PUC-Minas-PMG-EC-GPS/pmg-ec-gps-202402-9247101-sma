@@ -74,11 +74,17 @@ O objetivo é melhorar a gestão da frota, monitorando em tempo real diversos as
 
 ## Critérios de Sucesso
 
-......  COLOQUE AQUI O SEU TEXTO ......
+**Critérios de Sucesso para o Sistema de Monitoramento Avançado para Frotas de Locadoras de Carros**
 
-> Os critérios de sucesso indicam uma forma avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
+1. **Entrega Dentro do Prazo e Orçamento Estipulados**: Um critério fundamental de sucesso será a capacidade de entregar o sistema completo dentro do prazo definido no cronograma e sem exceder o orçamento previsto. O cumprimento dessas metas demonstra a eficiência na gestão do projeto.
+
+2. **Satisfação do Cliente**: O projeto será considerado bem-sucedido se atender ou superar as expectativas da locadora de carros, como a Localiza. Isso inclui a facilidade de uso do sistema, a precisão das informações coletadas e a capacidade do sistema em contribuir para a redução de custos operacionais e aumento da segurança da frota.
+ 
+3. **Qualidade do Produto Final**: A qualidade do sistema será medida pela confiabilidade e precisão dos dados coletados pelos sensores integrados.
+
+5. **Atendimento aos Requisitos e Expectativas das Partes Interessadas**: O sucesso do projeto também será determinado pela capacidade de atender a todos os requisitos técnicos e funcionais estabelecidos no início do projeto. Além disso, a colaboração com as partes interessadas, como engenheiros de software, técnicos de manutenção, gerentes de frota e outros envolvidos, será crucial para garantir que o sistema atenda às necessidades e expectativas de todos.
+
+6. **Gestão Eficaz de Riscos**: A habilidade da equipe em identificar, mitigar e resolver possíveis riscos durante o desenvolvimento do sistema será outro indicador importante de sucesso. A prevenção de atrasos, a minimização de falhas técnicas e a resolução rápida de problemas emergentes contribuirão para o sucesso global do projeto.
 
 # Partes Interessadas
 
