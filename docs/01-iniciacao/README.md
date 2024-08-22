@@ -41,36 +41,33 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O projeto busca resolver a necessidade de melhorar a gestão de frotas em locadoras de veículos, como a Localiza, por meio de um sistema de monitoramento avançado. A ausência de monitoramento em tempo real dos veículos resulta em altos custos operacionais, manutenções imprevistas e maior risco de acidentes. 
 
-> Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
-> A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
-> Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
-> Nesta seção, deve ser descrito apenas o problema e seu contexto.
-> Soluções para o problema devem ser descritas na seção correspondente.
 
 ## Objetivos
 
 O objetivo é melhorar a gestão da frota, monitorando em tempo real diversos aspectos do veículo, como temperatura, umidade, nível de combustível, pressão dos pneus e a condição do motor. 
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho.
-> Apresente um Objetivo Geral, sintetizado em uma única frase.
-> Apresente também 3 ou 4 objetivos específicos (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
-
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+* O SMA tem como objetivo minimizar a dificuldade da gestão de frotas, sendo eles, os altos custos operacionais, a falta de segurança e a necessidade de manutenção eficiente.
 
-> Aqui você deve descrever os benefícios esperados pela construção do projeto.
-> As justificativas do projeto explicam as razões e a necessidade da iniciativa.
-> Elas demonstram como o projeto atende a uma demanda específica, resolve um problema ou aproveita uma oportunidade identificada.
-> Além disso, definem os benefícios esperados e o impacto previsto para a organização ou a comunidade. 
+* Os benefícios esperados seriam:
+
+* A redução dos custos operacionais, sendo a manutenção e otimização de recursos.
+
+* Aumento da Segurança: Alertas em tempo real com a localidade em situações de risco.
+
+* Melhoria na Gestão da Frota: Controle preciso da localização e estado dos veículos com atualização em tempo real.
+
+* Sustentabilidade: Redução de emissões através do monitoramento eficiente.
+
+* Diminuição de Custos com Seguros: Controle rigoroso sobre a segurança e a manutenção dos veículos.
+
+* Impacto Previsto:
+O projeto visa melhorar a segurança e sustentabilidade, agilidade.
+
+* Beneficiará a locadora e seus clientes, podendo servir de exemplo pro setor.
 
 ## Critérios de Sucesso
 
@@ -88,34 +85,20 @@ O objetivo é melhorar a gestão da frota, monitorando em tempo real diversos as
 
 # Partes Interessadas
 
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
-
-> Você pode utilizar como referência o seguinte documento:
-> [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
-
 ## Identificação das Partes Interessadas
 
 | Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------|---------------|-------------|-------------|
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
+| Pessoa Localiza 1 | Gerente Operações | Validar entregas |      x       |      x     |
+| Pessoa Localiza 2 | Engenheiro Mecânico |  Instalar hardware carros |     x     |      x     |
+| Pessoa TI Localiza |  TI |  Instalar software |     x     |      x     |
+|   Investidor  |   Acionista   |  Suporte financeiro |      x       |      x       |
+|  Pessoa loja hardware  | fornecedora/consultora  |   Fornecer sensores e hardware |      x     |     x   |
+|   Fernanda  |  Engenheira de Hardware   |   Comprar sensores e CI, projetar hardware e programar, testar funcionalidades  |       x      |       x      |
+|   Lucas     |  Engenheiro de software  |  desenvolver Backend  |      x       |       x      |
+|   Samira    |  Engenheiro de software |  desenvolver Front end |     x        |       x      |
+|   Julia     |  Engenheiro de Dados  |      desenvolver banco de dados, configurar comunicação entre dispositivos embarcados e servidor  |   x   |x|
 
-> Opções de identificação dos stakeholders:
-> - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
-> - Posição / Cargo: Identificação do cargo da parte interessada
-> - - Ex.: Gerente de TI, Funcionário da Linha de Produção, Presidente, Analista de Sistema do Cliente, Desenvolvedor, etc.
-> - Papel no Projeto: Papel da pessoa no projeto
-> - - Ex.: Desenvolvedor, Analista de Requisitos, Analista de Testes, Product Owner, etc.
-> - E-mail: E-mail do Stakeholder (*não utilizar informações pessoais*)
-> - Telefone: Telefone do Stakeholder, incluindo WhatsApp (*não utilizar informações pessoais*)
 
 ## Avaliação das Partes Interessadas
 
