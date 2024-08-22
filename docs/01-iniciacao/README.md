@@ -51,6 +51,8 @@
 
 ## Objetivos
 
+O objetivo é melhorar a gestão da frota, monitorando em tempo real diversos aspectos do veículo, como temperatura, umidade, nível de combustível, pressão dos pneus e a condição do motor. 
+
 ......  COLOQUE AQUI O SEU TEXTO ......
 
 > Aqui você deve descrever os objetivos do trabalho.
