@@ -104,12 +104,12 @@ O projeto visa melhorar a segurança e sustentabilidade, agilidade.
 
 | Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
 |-----------------|------------------------|---------------|---------------------|-------------|---------------|
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
+|  Investidor  | Aumento no retorno de lucros e na cartela de clientes |  Média  | alta | Positivo  | o valor do investimento pode ser incrementado de acordo com percurso do projeto e os resultados demonstrados  |
+| Pessoa loja hardware|Manter o fluxo do fornecimento dos componentes|baixa|alta|neutro|os produtos serão entregues em quantidade estabelecida previamente|
+| Pessoa Localiza 2 |ajudar na instalação dos sensores nos veículos|Média|Média|positivo|pode ajudar também na manutenção do hardware|
+|Samira|desenvolver a interface do usuario com qualidade e fluidez, com ferramentas intuitivas e fáceis de serem manipuladas |Média|alta|positivo| parte das tarefas depende da finalização da etapa de desenvolvimento do software backend|
+|Fernanda|desenvolver sistema de hardware completo e que atende os requisitos|alta|Média|positivo|               |
+|Pessoa Localiza 1|Aprovar produto final e ter um sistema de monitoramento completo e atual|Alta|Alta|Neutro|               |
 |                 |                        |               |                     |             |               |
 |                 |                        |               |                     |             |               |
 
