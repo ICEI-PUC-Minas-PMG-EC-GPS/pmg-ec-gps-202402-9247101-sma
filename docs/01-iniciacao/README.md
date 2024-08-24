@@ -111,7 +111,7 @@ O projeto visa melhorar a segurança e sustentabilidade, agilidade.
 |Fernanda|desenvolver sistema de hardware completo e que atende os requisitos|alta|Média|positivo|               |
 |Pessoa Localiza 1|Aprovar produto final e ter um sistema de monitoramento completo e atual|Alta|Alta|Neutro|               |
 |    Lucas        | Desenvolver e manter o backend do sistema com alta performance e segurança. |    Média    |    Alta                 |    Positivo         |         Crucial para a integração eficiente com o frontend e garantindo o desempenho e a segurança do sistema.       |
-|                 |                        |               |                     |             |               |
+|Julia|desenvolver e manter pipelines de dados, banco de dados, projetar arquitetura de dados e garantir a segurança dos dados|Alta|Alta|Positivo|               |
 
 > Opções de avaliação:
 > - Expectativa: descrição da expectativa da parte interessada no projeto.
