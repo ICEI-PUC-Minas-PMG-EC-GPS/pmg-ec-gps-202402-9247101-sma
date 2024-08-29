@@ -146,49 +146,32 @@ O projeto visa melhorar a segurança e sustentabilidade, agilidade.
 
 ## Estimativa de Custo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
-> Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
-> Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
-> A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
-> Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
-
-......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
-
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
+| Recursos Humanos        |Quatro desenvolvedores|2000|120,00|960.000|
+| Hardware                |sensores de monitoramento e placa de desenvolvimento|-|-|1874 por carro|
+| Serviços de Rede        |Internet|2000|13,75|330|
+| Hospedagem e Nuvem      |Hospedagem da Localiza, Nuvem da AWS|2000|1,65|3300|
+| Software de terceiros   |Linux, Visual Code|-|0|0|
+| Serviços e treinamento  |Treinamento para capacitar os funcionários da Localiza em manutenção e instalação dos equipamentos|60|120|7200|
+| **Total Geral**         |           |            |              |972704|
 
 
 ## Estimativa de Prazo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
-> Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
-> Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
-
-> Indique:
-> * Prazo previsto (em horas) 
-> * Data de início
-> * Data de término
-
-* Prazo previsto (em horas): XX horas
-* Data de início: __ / __ / _____
-* Data de término: __ / __ / _____
+* Prazo previsto (em horas): 2000 horas
+* Data de início: 01 / 09 / 2024
+* Data de término: 10 / 11 / 2024
 
 ## Escopo Preliminar e Premissas
 
-> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
-> 
-> ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
+O projeto visa desenvolver um sistema de monitoramento para frotas de veículos, como os da Localiza, com o objetivo de melhorar a gestão por meio do monitoramento em tempo real. Isso permitirá a manutenção preditiva, redução de custos operacionais e aumento da segurança.
+
+As funcionalidades incluem o monitoramento da temperatura do motor para evitar superaquecimento, controle da umidade interna para prevenir corrosão, detecção de impactos para identificar colisões e avaliar danos, e monitoramento da combustão para reduzir emissões. Além disso, o sistema controlará o consumo de combustível, monitorará a pressão dos pneus, rastreará a localização dos veículos em tempo real e oferecerá monitoramento visual por câmeras.
+
+O desenvolvimento será feito na plataforma Xilinx Zynq 7000 SoC, integrando os sensores e processando os dados em tempo real. Com isso, o sistema poderá sugerir manutenções preventivas e centralizar as informações em uma interface para facilitar a tomada de decisões, sempre visando a segurança e a eficiência.
+
+Esse escopo preliminar pode ser ajustado conforme o desenvolvimento avança e novas necessidades surgem.
 
 ## Declaração de Escopo
 
