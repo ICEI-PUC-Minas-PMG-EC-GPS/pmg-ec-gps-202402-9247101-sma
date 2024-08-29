@@ -52,8 +52,6 @@ O objetivo é melhorar a gestão da frota, monitorando em tempo real diversos as
 
 * O SMA tem como objetivo minimizar a dificuldade da gestão de frotas, sendo eles, os altos custos operacionais, a falta de segurança e a necessidade de manutenção eficiente.
 
-* Os benefícios esperados seriam:
-
 * A redução dos custos operacionais, sendo a manutenção e otimização de recursos.
 
 * Aumento da Segurança: Alertas em tempo real com a localidade em situações de risco.
@@ -174,30 +172,22 @@ O desenvolvimento será feito na plataforma Xilinx Zynq 7000 SoC, integrando os 
 Esse escopo preliminar pode ser ajustado conforme o desenvolvimento avança e novas necessidades surgem.
 
 ## Declaração de Escopo
-
-> Você pode utilizar como referência o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
-
-> Enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+  Requisitos Funcionais (RF)
+ - Monitoramento de Temperatura: O sistema deve monitorar a temperatura interna do motor em tempo real para evitar superaquecimento.
+ - Controle de Umidade: O sistema deve detectar e monitorar os níveis de umidade no interior do veículo para prevenir corrosão e danos aos componentes eletrônicos.
+ - Detecção de Impactos: O sistema deve identificar colisões e impactos no veículo, auxiliando na avaliação de possíveis danos estruturais.
+ - Monitoramento da Combustão: O sistema deve monitorar a eficiência da combustão do motor através da análise dos gases de escape, ajudando a reduzir emissões e a manter a eficiência do motor.
+ - Gestão de Combustível: O sistema deve monitorar o nível de combustível em tempo real, permitindo o controle preciso do consumo e a prevenção de fraudes.
+  - Monitoramento da Pressão dos Pneus: O sistema deve monitorar a pressão dos pneus e alertar sobre insuficiência de pressão para prevenir acidentes e otimizar o consumo de combustível.
+  - Rastreamento de Localização: O sistema deve rastrear a localização dos veículos da frota em tempo real através de um módulo GPS.
+  - Monitoramento Visual: O sistema deve integrar câmeras digitais para capturar e transmitir imagens em tempo real, reforçando a segurança dos veículos.
+  
+  Requisitos Não Funcionais (RNF)
+  - Plataforma de Desenvolvimento: O sistema deve ser desenvolvido utilizando a plataforma Xilinx Zynq 7000 SoC para garantir a integração eficiente dos sensores e o processamento de dados em tempo real.
+  - Manutenção Preditiva: O sistema deve ser capaz de sugerir intervenções de manutenção com base nos dados coletados, visando prevenir falhas e minimizar paradas não planejadas.
+  - Interface Centralizada: O sistema deve centralizar todos os dados coletados em uma interface única para facilitar a análise e a tomada de decisões.
+  - Segurança de Dados: O sistema deve criptografar todos os dados transmitidos e armazenados para garantir a segurança das informações.
+  - Desempenho e Escalabilidade: O sistema deve ser capaz de processar grandes volumes de dados em tempo real e escalar conforme o aumento da frota.
 
 ### Requisitos Funcionais
 
