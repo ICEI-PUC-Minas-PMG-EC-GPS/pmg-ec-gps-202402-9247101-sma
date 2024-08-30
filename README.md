@@ -1,18 +1,21 @@
 ![ICEI](images/icei-pucminas.png)
 
-# Nome do projeto
+# SMA
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
+O projeto focará no desenvolvimento de um sistema de monitoramento avançado 
+para frotas de veículos de locadoras, como a Localiza. O objetivo é melhorar a 
+gestão da frota, monitorando em tempo real diversos aspectos do veículo, como 
+temperatura, umidade, nível de combustível, pressão dos pneus e a condição do 
+motor. Com esses dados, o sistema permitirá a manutenção preditiva, reduzirá 
+custos operacionais e aumentará a segurança, além de potencialmente diminuir os 
+custos com seguros.
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
-* [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
+* Fernanda Pinto de Morais https://github.com/Nanda97
+* Julia Guerra Ferreira (https://github.com/aluno2)
+* Lucas Bretz Araújo Petinga (https://github.com/aluno3)
+* Samira Brito Dellísola (https://github.com/aluno4)
 
 ## Professor responsável
 
