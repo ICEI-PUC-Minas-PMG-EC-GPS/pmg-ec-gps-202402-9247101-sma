@@ -40,8 +40,20 @@
 ```
 
 ## Problema
+As locadoras de veículos, como a Localiza, enfrentam diversos desafios na gestão eficaz de suas frotas devido à falta de monitoramento em tempo real. Essa ausência de monitoramento contínuo acarreta vários problemas:
 
-O projeto busca resolver a necessidade de melhorar a gestão de frotas em locadoras de veículos, como a Localiza, por meio de um sistema de monitoramento avançado. A ausência de monitoramento em tempo real dos veículos resulta em altos custos operacionais, manutenções imprevistas e maior risco de acidentes. 
+- Altos Custos Operacionais:
+Sem informações atualizadas sobre o estado dos veículos, as locadoras muitas vezes realizam manutenções reativas em vez de preventivas, o que tende a ser mais caro. Veículos que não são monitorados regularmente podem operar com problemas não detectados, como baixa pressão dos pneus ou desgaste excessivo do motor, levando a um aumento no consumo de combustível e ao uso ineficiente dos recursos.
+  
+- Manutenções Imprevistas:
+A falta de dados em tempo real impede a realização de manutenções preventivas eficazes. Como resultado, falhas mecânicas inesperadas podem ocorrer, o que não só aumenta os custos com reparos de emergência, mas também coloca em risco a disponibilidade dos veículos para aluguel, impactando diretamente a receita da locadora.
+
+- Dificuldade na Prevenção de Fraudes:
+Sem um sistema de monitoramento preciso, torna-se difícil para as locadoras controlarem o consumo de combustível e o uso indevido dos veículos. Fraudes relacionadas ao abastecimento de combustível ou ao uso não autorizado dos carros são mais difíceis de detectar, resultando em prejuízos financeiros.
+
+- Incapacidade de Otimizar a Logística e Utilização da Frota:
+A falta de dados sobre a localização e o status dos veículos em tempo real dificulta a otimização das rotas e da utilização da frota. Isso leva a uma distribuição ineficiente dos veículos, aumentando o tempo de ociosidade e reduzindo a capacidade de resposta da empresa às demandas dos clientes.
+Esses problemas, juntos, resultam em uma gestão ineficiente da frota, comprometendo a competitividade e a lucratividade das locadoras de veículos.
 
 
 ## Objetivos
@@ -191,25 +203,32 @@ Esse escopo preliminar pode ser ajustado conforme o desenvolvimento avança e no
 
 ### Requisitos Funcionais
 
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 10) ......
-
 A tabela a seguir apresenta os requisitos funcionais do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001|Monitorar a temperatura interna do motor | ALTA | 
+|RF-002|Detectar e monitorar os níveis de umidade no interior do veículo| ALTA |
+|RF-003|Identificar colisões e impactos no veículo| ALTA |
+|RF-004|Análise dos gases de escape| ALTA |
+|RF-005|Monitorar o nível de combustível| ALTA |
+|RF-006|Monitorar a pressão dos pneus| ALTA |
+|RF-007|Rastrear a localização dos veículos| ALTA |
+|RF-008|Câmeras digitais para capturar e transmitir imagens| ALTA |
+|RF-009|x|x|
+|RF-010|x|x|
 
 ### Requisitos Não Funcionais
-
-......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
 
 A tabela a seguir apresenta os requisitos não funcionais do projeto. 
 
 |ID     | Descrição do Requisito                                            |Prioridade |
 |-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
+|RNF-001| O sistema deve ser responsivo para rodar em tempo real| ALTA| 
+|RNF-002| O sistema deve ser desenvolvido utilizando a plataforma Xilinx Zynq 7000 SoC| BAIXA| 
+|RNF-003| O sistema deve ser capaz de sugerir intervenções de manutenção com base nos dados coletados|ALTA| 
+|RNF-004| O sistema deve criptografar todos os dados|ALTA| 
+|RNF-005| Sistema deve ser capaz de processar grandes volumes de dados|ALTA| 
 
 
 ### Restrições
@@ -220,24 +239,26 @@ A tabela a seguir apresenta as restrições do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RE-001| O cliente alterar o banco de dados | ALTA | 
+|RE-002| Nao funciona em carros eletricos| BAIXA |
+|RE-003| Nao pode interagir com o hardware via atuadores | BAIXA |
+|RE-004| Funciona somente em territorio nacional| ALTA |
+|RE-005|x|x|
 
 
 ### Contra-Escopo
-
-......  ATUALIZE O CONTRA-ESCOPO DO SISTEMA (MÍNIMO 5) ......
 
 A tabela a seguir apresenta as atividades que não serão executadas no projeto
 
 |ID    | Descrição do Contra-Escopo          | 
 |------|-------------------------------------|
-|CE-001| Treinamento de modelo de LLM        |
+|CE-001| Treinamento para todos funcionarios da localiza|
 |CE-002| Pesquisa de viabilidade do mercado. |
+|CE-003| Compra e implementacao de um dominio unico|
+|CE-004| Manutencao de componentes de hardware|
+|CE-005| Implementacao do hardware na frota|
 
 ### Condições para início do Projeto
-
-......  ATUALIZE AS CONDIÇÕES PARA INÍCIO DOS PROJETOS (MÍNIMO 3) ......
 
 A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
@@ -245,6 +266,7 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 |------|--------------------------------------------------|
 |CI-001| Assinatura de contrato de prestação de serviços. |
 |CI-002| Apresentação de garantias definidas no contrato. |
+|CI-003| Verificação da disponibilidade para compra dos sensores na data de inicio |
 
 ## Marcos Agendados e Entregas
 
