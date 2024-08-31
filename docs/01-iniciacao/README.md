@@ -270,18 +270,18 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
 ## Marcos Agendados e Entregas
 
-......  ATUALIZE OS MARCOS AGENDADOS DO PROJETO E AS DATAS PARA ENTREGAS DAS TAREFAS ......
 
-A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos (requisitos).
+|ID   | Marco do Projeto                                                                 | Data de Entrega Prevista |
+|-----|----------------------------------------------------------------------------------|--------------------------|
+|M-1  | Conclusão da fase de iniciação e aprovação do Termo de Abertura do Projeto (TAP) | 05/09/2024               |
+|M-2  | Finalização da arquitetura do sistema e especificações dos requisitos            | 12/09/2024               |
+|M-3  | Aquisição e integração inicial dos sensores de monitoramento                     | 20/09/2024               |
+|M-4  | Desenvolvimento do backend e integração com os sensores                          | 30/09/2024               |
+|M-5  | Desenvolvimento da interface do usuário (frontend)                               | 07/10/2024               |
+|M-6  | Testes de sistema e ajustes finais com a equipe da Localiza                      | 15/10/2024               |
+|M-7  | Treinamento dos funcionários da Localiza para uso do sistema                     | 22/10/2024               |
+|M-8  | Entrega final e homologação do sistema completo                                  | 10/11/2024               |
 
-|ID   | Marco do Projeto                                                  | 
-|-----|-------------------------------------------------------------------|
-|M-1  | Liberação do sistema para cadastro de informações e configuração. |
-|M-2  | Permissão para uso do sistema, por usuários focais.               |
-|M-3  |                                                                   |
-|M-4  |                                                                   |
-|M-5  |                                                                   |
-|M-6  |                                                                   |
 
 ```diff
 + Tarefa 02
