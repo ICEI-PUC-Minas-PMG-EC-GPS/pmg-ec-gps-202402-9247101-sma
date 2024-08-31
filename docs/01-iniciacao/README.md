@@ -215,8 +215,8 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 |RF-006|Monitorar a pressão dos pneus| ALTA |
 |RF-007|Rastrear a localização dos veículos| ALTA |
 |RF-008|Câmeras digitais para capturar e transmitir imagens| ALTA |
-|RF-009|x|x|
-|RF-010|x|x|
+|RF-009|Segurança na Transmissão de Dados|MÉDIA|
+|RF-010|Armazenamento e Histórico de Dados|MÉDIA|
 
 ### Requisitos Não Funcionais
 
@@ -229,6 +229,11 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 |RNF-003| O sistema deve ser capaz de sugerir intervenções de manutenção com base nos dados coletados|ALTA| 
 |RNF-004| O sistema deve criptografar todos os dados|ALTA| 
 |RNF-005| Sistema deve ser capaz de processar grandes volumes de dados|ALTA| 
+|RNF-006| O sistema deve monitorar continuamente a pressão dos pneus de cada veículo da frota.|ALTA| 
+|RNF-007| O sistema deve rastrear a localização dos veículos em tempo real utilizando GPS.|ALTA| 
+|RNF-008| O sistema deve integrar câmeras digitais nos veículos para capturar e transmitir imagens do interior e exterior.|ALTA| 
+|RNF-009| O sistema deve garantir que todos os dados transmitidos entre os sensores, o servidor e a interface central sejam seguros e criptografados.|MÉDIA|
+|RNF-010| O sistema deve armazenar dados históricos para análise posterior e geração de relatórios detalhados.|MÉDIA|
 
 
 ### Restrições
@@ -243,7 +248,7 @@ A tabela a seguir apresenta as restrições do projeto.
 |RE-002| Nao funciona em carros eletricos| BAIXA |
 |RE-003| Nao pode interagir com o hardware via atuadores | BAIXA |
 |RE-004| Funciona somente em territorio nacional| ALTA |
-|RE-005|x|x|
+|RE-005| O sistema depende de conexão à internet para funcionalidades de monitoramento em tempo real |MÉDIA|
 
 
 ### Contra-Escopo
