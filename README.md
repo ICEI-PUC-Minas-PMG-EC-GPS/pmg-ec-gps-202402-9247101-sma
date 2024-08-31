@@ -13,7 +13,7 @@ custos com seguros.
 ## Alunos integrantes da equipe
 
 * Fernanda Pinto de Morais https://github.com/Nanda97
-* Julia Guerra Ferreira (https://github.com/juliaGuerra21)
+* Julia Guerra Ferreira https://github.com/juliaGuerra21
 * Lucas Bretz Araújo Petinga https://github.com/Lucas-Bretz 
 * Samira Brito Dellísola https://github.com/Samirabdellisola
 
