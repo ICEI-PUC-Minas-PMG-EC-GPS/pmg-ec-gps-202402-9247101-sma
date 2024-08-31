@@ -23,10 +23,8 @@ custos com seguros.
 
 ## Gerenciamento do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO (OPCIONAL) ......
+O "Sistema de Monitoramento Avançado para Frotas de Locadoras de Carros" é um projeto que visa desenvolver uma solução integrada para monitorar em tempo real veículos de locadoras, utilizando sensores avançados, módulos GPS e câmeras digitais, todos conectados à plataforma Xilinx Zynq-7000 SoC. O objetivo é melhorar a eficiência operacional e a segurança, permitindo a manutenção preditiva e o controle preciso da frota. O projeto abrange desde a integração de hardware e desenvolvimento de firmware, até a criação de uma interface central para análise dos dados. Será executado ao longo de um semestre, com foco na mitigação de riscos técnicos e no cumprimento dos prazos, visando a redução de custos operacionais e o aumento da segurança.
 
-> Adicione aqui informações sobre o projeto que será gerenciado. 
-> Indique informações importantes sobre o projeto.
 
 Fases do Gerenciamento do Projeto:
 1. [Iniciação](docs/01-iniciacao)
