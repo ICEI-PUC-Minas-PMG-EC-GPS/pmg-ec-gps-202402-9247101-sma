@@ -15,7 +15,7 @@ custos com seguros.
 * Fernanda Pinto de Morais https://github.com/Nanda97
 * Julia Guerra Ferreira (https://github.com/aluno2)
 * Lucas Bretz Araújo Petinga https://github.com/Lucas-Bretz 
-* Samira Brito Dellísola (https://github.com/aluno4)
+* Samira Brito Dellísola https://github.com/Samirabdellisola
 
 ## Professor responsável
 
