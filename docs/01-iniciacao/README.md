@@ -58,25 +58,25 @@ O objetivo é melhorar a gestão da frota, monitorando em tempo real diversos as
 ## Objetivos específicos
 
 1. Desenvolver uma plataforma integrada de monitoramento em tempo real
-Criar e implementar um sistema que permita o monitoramento contínuo de aspectos críticos dos veículos da frota, como temperatura do motor, umidade interna, nível de combustível, pressão dos pneus e localização via GPS, até [data específica].
+Criar e implementar um sistema que permita o monitoramento contínuo de aspectos críticos dos veículos da frota, como temperatura do motor, umidade interna, nível de combustível, pressão dos pneus e localização via GPS, até 10/11/2024.
 
 2. Reduzir os custos operacionais em pelo menos 15% em um período de seis meses
-Implementar práticas de manutenção preditiva e otimização do uso de combustível e pneus, utilizando os dados coletados pelo sistema, com o objetivo de reduzir os custos operacionais das locadoras em 15% até [data específica].
+Implementar práticas de manutenção preditiva e otimização do uso de combustível e pneus, utilizando os dados coletados pelo sistema, com o objetivo de reduzir os custos operacionais das locadoras em 15% até 10/05/2025.
 
 3. Melhorar a segurança dos veículos e reduzir incidentes em 10%
-Introduzir funcionalidades de detecção de impactos e monitoramento visual que permitam a rápida identificação e resposta a incidentes, visando reduzir em 10% o número de incidentes relacionados à frota até [data específica].
+Introduzir funcionalidades de detecção de impactos e monitoramento visual que permitam a rápida identificação e resposta a incidentes, visando reduzir em 10% o número de incidentes relacionados à frota até 10/05/2025.
 
 4. Implementar um sistema de prevenção de fraudes
-Desenvolver um módulo que analise o consumo de combustível e o uso dos veículos para detectar padrões irregulares, com o objetivo de reduzir as fraudes associadas ao abastecimento e uso não autorizado em 20% até [data específica].
+Desenvolver um módulo que analise o consumo de combustível e o uso dos veículos para detectar padrões irregulares, com o objetivo de reduzir as fraudes associadas ao abastecimento e uso não autorizado em 20% até 10/12/2024.
 
 5. Otimizar a logística e a utilização da frota
-Criar uma interface centralizada que permita a visualização e análise em tempo real da localização e estado dos veículos, melhorando a eficiência logística e reduzindo o tempo de ociosidade da frota em 25% até [data específica].
+Criar uma interface centralizada que permita a visualização e análise em tempo real da localização e estado dos veículos, melhorando a eficiência logística e reduzindo o tempo de ociosidade da frota em 25% até 07/10/2024.
 
 6. Realizar testes e validações do sistema em um ambiente controlado
-Concluir a fase de testes e validações, garantindo que todos os componentes do sistema (sensores, câmeras, módulos GPS) estejam funcionando corretamente e integrados à plataforma, até [data específica].
+Concluir a fase de testes e validações, garantindo que todos os componentes do sistema (sensores, câmeras, módulos GPS) estejam funcionando corretamente e integrados à plataforma, até [data 15/10/2024.
 
 7. Treinar a equipe de TI e de manutenção da Localiza
-Desenvolver e ministrar um programa de treinamento para capacitar os funcionários da Localiza na utilização e manutenção do sistema, assegurando a autonomia da equipe para lidar com a tecnologia implementada, até [data específica].
+Desenvolver e ministrar um programa de treinamento para capacitar os funcionários da Localiza na utilização e manutenção do sistema, assegurando a autonomia da equipe para lidar com a tecnologia implementada, até 22/10/2024.
 
 8. Entregar a solução final dentro do prazo e orçamento estabelecidos
 Garantir que o sistema completo seja entregue à Localiza, cumprindo todos os requisitos técnicos e funcionais, dentro do prazo de 2000 horas e orçamento de R$ 972.704, conforme o cronograma estabelecido.
