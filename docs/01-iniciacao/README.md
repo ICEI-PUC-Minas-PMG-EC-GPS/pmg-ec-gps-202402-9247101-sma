@@ -34,31 +34,52 @@
 
 # Introdução
 
-```diff
-+ Tarefa 01:
-+ Tema do projeto e lista de Stakeholders
-```
+No cenário atual de alta competitividade no setor de locação de veículos, as empresas enfrentam desafios crescentes para gerenciar suas frotas de maneira eficiente e segura. A ausência de um monitoramento em tempo real pode resultar em altos custos operacionais, manutenção reativa em vez de preditiva, dificuldades na prevenção de fraudes e ineficiências logísticas. Estes fatores comprometem não apenas a rentabilidade, mas também a capacidade de resposta às demandas do mercado e a satisfação dos clientes.
+
+Em resposta a esses desafios, o presente trabalho propõe o desenvolvimento do "Sistema de Monitoramento Avançado para Frotas de Locadoras de Carros" (SMA). Este projeto visa integrar tecnologias de ponta, como sensores avançados, módulos GPS e câmeras digitais, à plataforma Xilinx Zynq-7000 SoC, para criar uma solução robusta que permita o monitoramento contínuo e em tempo real dos veículos. Com isso, espera-se proporcionar uma gestão mais eficaz da frota, reduzir custos operacionais, aumentar a segurança dos veículos e, consequentemente, melhorar a competitividade das locadoras no mercado.
 
 ## Problema
-As locadoras de veículos, como a Localiza, enfrentam diversos desafios na gestão eficaz de suas frotas devido à falta de monitoramento em tempo real. Essa ausência de monitoramento contínuo acarreta vários problemas:
 
-- Altos Custos Operacionais:
-Sem informações atualizadas sobre o estado dos veículos, as locadoras muitas vezes realizam manutenções reativas em vez de preventivas, o que tende a ser mais caro. Veículos que não são monitorados regularmente podem operar com problemas não detectados, como baixa pressão dos pneus ou desgaste excessivo do motor, levando a um aumento no consumo de combustível e ao uso ineficiente dos recursos.
-  
-- Manutenções Imprevistas:
-A falta de dados em tempo real impede a realização de manutenções preventivas eficazes. Como resultado, falhas mecânicas inesperadas podem ocorrer, o que não só aumenta os custos com reparos de emergência, mas também coloca em risco a disponibilidade dos veículos para aluguel, impactando diretamente a receita da locadora.
+As locadoras de veículos, como a Localiza, enfrentam diversos desafios significativos na gestão eficaz de suas frotas. Um dos principais problemas é a falta de monitoramento em tempo real, que resulta em uma série de dificuldades operacionais e financeiras.
 
-- Dificuldade na Prevenção de Fraudes:
-Sem um sistema de monitoramento preciso, torna-se difícil para as locadoras controlarem o consumo de combustível e o uso indevido dos veículos. Fraudes relacionadas ao abastecimento de combustível ou ao uso não autorizado dos carros são mais difíceis de detectar, resultando em prejuízos financeiros.
+Primeiramente, a ausência de monitoramento contínuo dos veículos leva a altos custos operacionais. Sem informações atualizadas sobre o estado dos veículos, as manutenções são frequentemente realizadas de forma reativa, após a ocorrência de falhas, em vez de preventivamente. Isso não só aumenta os custos com reparos, mas também expõe os veículos a riscos maiores, como a operação com problemas não detectados, tais como baixa pressão dos pneus ou desgaste excessivo do motor, que podem elevar o consumo de combustível e causar um uso ineficiente dos recursos.
 
-- Incapacidade de Otimizar a Logística e Utilização da Frota:
-A falta de dados sobre a localização e o status dos veículos em tempo real dificulta a otimização das rotas e da utilização da frota. Isso leva a uma distribuição ineficiente dos veículos, aumentando o tempo de ociosidade e reduzindo a capacidade de resposta da empresa às demandas dos clientes.
-Esses problemas, juntos, resultam em uma gestão ineficiente da frota, comprometendo a competitividade e a lucratividade das locadoras de veículos.
+Além disso, a falta de dados em tempo real impede a realização de manutenções preventivas eficazes, o que pode resultar em falhas mecânicas inesperadas. Essas falhas aumentam os custos com reparos de emergência e reduzem a disponibilidade dos veículos para aluguel, impactando negativamente a receita da locadora.
+
+Outro problema significativo é a dificuldade na prevenção de fraudes. Sem monitoramento preciso, as locadoras enfrentam desafios no controle do consumo de combustível e no uso indevido dos veículos. Fraudes, como o abastecimento irregular ou o uso não autorizado dos carros, tornam-se difíceis de detectar, resultando em prejuízos financeiros.
+
+Por fim, a falta de dados sobre a localização e o status dos veículos em tempo real compromete a otimização da logística e da utilização da frota. Isso leva a uma distribuição ineficiente dos veículos, aumentando o tempo de ociosidade e reduzindo a capacidade de resposta da empresa às demandas dos clientes. Esses problemas, combinados, resultam em uma gestão ineficaz da frota, comprometendo a competitividade e a lucratividade das locadoras de veículos.
 
 
 ## Objetivos
 
 O objetivo é melhorar a gestão da frota, monitorando em tempo real diversos aspectos do veículo, como temperatura, umidade, nível de combustível, pressão dos pneus e a condição do motor. 
+
+## Objetivos específicos
+
+1. Desenvolver uma plataforma integrada de monitoramento em tempo real
+Criar e implementar um sistema que permita o monitoramento contínuo de aspectos críticos dos veículos da frota, como temperatura do motor, umidade interna, nível de combustível, pressão dos pneus e localização via GPS, até [data específica].
+
+2. Reduzir os custos operacionais em pelo menos 15% em um período de seis meses
+Implementar práticas de manutenção preditiva e otimização do uso de combustível e pneus, utilizando os dados coletados pelo sistema, com o objetivo de reduzir os custos operacionais das locadoras em 15% até [data específica].
+
+3. Melhorar a segurança dos veículos e reduzir incidentes em 10%
+Introduzir funcionalidades de detecção de impactos e monitoramento visual que permitam a rápida identificação e resposta a incidentes, visando reduzir em 10% o número de incidentes relacionados à frota até [data específica].
+
+4. Implementar um sistema de prevenção de fraudes
+Desenvolver um módulo que analise o consumo de combustível e o uso dos veículos para detectar padrões irregulares, com o objetivo de reduzir as fraudes associadas ao abastecimento e uso não autorizado em 20% até [data específica].
+
+5. Otimizar a logística e a utilização da frota
+Criar uma interface centralizada que permita a visualização e análise em tempo real da localização e estado dos veículos, melhorando a eficiência logística e reduzindo o tempo de ociosidade da frota em 25% até [data específica].
+
+6. Realizar testes e validações do sistema em um ambiente controlado
+Concluir a fase de testes e validações, garantindo que todos os componentes do sistema (sensores, câmeras, módulos GPS) estejam funcionando corretamente e integrados à plataforma, até [data específica].
+
+7. Treinar a equipe de TI e de manutenção da Localiza
+Desenvolver e ministrar um programa de treinamento para capacitar os funcionários da Localiza na utilização e manutenção do sistema, assegurando a autonomia da equipe para lidar com a tecnologia implementada, até [data específica].
+
+8. Entregar a solução final dentro do prazo e orçamento estabelecidos
+Garantir que o sistema completo seja entregue à Localiza, cumprindo todos os requisitos técnicos e funcionais, dentro do prazo de 2000 horas e orçamento de R$ 972.704, conforme o cronograma estabelecido.
 
 ## Justificativa
 
@@ -74,8 +95,7 @@ O objetivo é melhorar a gestão da frota, monitorando em tempo real diversos as
 
 * Diminuição de Custos com Seguros: Controle rigoroso sobre a segurança e a manutenção dos veículos.
 
-* Impacto Previsto:
-O projeto visa melhorar a segurança e sustentabilidade, agilidade.
+* Impacto Previsto: O projeto visa melhorar a segurança e sustentabilidade, agilidade.
 
 * Beneficiará a locadora e seus clientes, podendo servir de exemplo pro setor.
 
