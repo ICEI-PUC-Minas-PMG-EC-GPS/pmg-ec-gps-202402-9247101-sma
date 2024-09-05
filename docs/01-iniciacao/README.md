@@ -323,7 +323,23 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
+### Metodologia Adotada
+
+O grupo está utilizando uma combinação das metodologias **Scrum** e **Lean** para organizar e gerenciar o projeto de forma ágil e eficiente.
+
+#### Scrum
+O **Scrum** é um framework ágil que facilita a gestão do projeto por meio de sprints (ciclos curtos de desenvolvimento), normalmente de duas a quatro semanas. Cada membro da equipe participa de reuniões diárias rápidas (daily stand-ups) para relatar o progresso, identificar obstáculos e planejar o trabalho do dia. Ao final de cada sprint, a equipe realiza uma retrospectiva para discutir o que funcionou bem, o que pode ser melhorado e os próximos passos.
+
+#### Lean
+O **Lean**, inspirado na indústria automobilística, complementa o Scrum ao focar na eliminação de desperdícios, garantindo que cada etapa do processo agregue valor direto ao produto final. A abordagem Lean permite que a equipe foque em processos enxutos e na entrega rápida de resultados, ao mesmo tempo em que mantém a qualidade e eficiência.
+
+### Ferramentas Empregadas
+A equipe utiliza diversas ferramentas para facilitar a comunicação, organização e desenvolvimento. Entre elas estão:
+
+- **Kanban Git:** Para gestão de tarefas e acompanhamento do progresso de sprints.
+- **GitHub:** Controle de versão para colaborar no desenvolvimento de software.
+- **Slack:** Para comunicação rápida e centralizada.
+
 >
 > Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
 > O grupo deverá gerenciar as tarefas utilizando o GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
@@ -337,11 +353,16 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A equipe está dividida de acordo com as especializações de cada membro, garantindo que as tarefas sejam bem distribuídas e todos os aspectos do projeto sejam cobertos.
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> Indique as responsabilidades de cada membro do grupo no projeto.
+- **Fernanda (Engenheira de Hardware):** Responsável pela compra de sensores e circuitos integrados (CIs), projeto do hardware e programação. Também testa as funcionalidades dos componentes de hardware.
+  
+- **Lucas (Engenheiro de Software):** Responsável pelo desenvolvimento do **backend**, implementando a lógica de negócio e a interface com o banco de dados e dispositivos embarcados.
 
+- **Samira (Engenheira de Software):** Focada no desenvolvimento do **front-end**, criando interfaces de usuário intuitivas e eficientes que permitem interação com o sistema de forma amigável.
+
+- **Julia (Engenheira de Dados):** Responsável pelo desenvolvimento do **banco de dados** e pela configuração da comunicação entre os dispositivos embarcados e o servidor, garantindo que os dados sejam armazenados e transmitidos corretamente.
+  
 ## Ferramentas
 
 ......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
@@ -353,14 +374,14 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
-| Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
-| Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
-| Documentos Textuais   | LibreOffice Writer | N/A                        |               |
-| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-| EAP / WBS             | | | |
-| Cronograma do Projeto | | | |
-| Matriz RACI           | | | |
+| Quadro Kanban         | Github| https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/22 | Centralização e organização do projeto no próprio repositório. |
+| Repositório de código | GitHub|||
+| Protótipo Interativo  | Figma |||
+| Documentos Textuais   |Google Docs||Documentacao de retrospectivas e processos |
+| Planilhas e Gráficos  | Google Planilhas   ||Representar graficos com info dos sensores|
+| Programar codigo| Visual code| | Programar codigos do projeto|
+| Banco de dados |Visual code | |Desenvolver banco de dados da aws|
+|| | | |
 
 ```diff
 + Tarefa 03:
