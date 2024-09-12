@@ -136,14 +136,6 @@ Garantir que o sistema completo seja entregue à Localiza, cumprindo todos os re
 |    Lucas        | Desenvolver e manter o backend do sistema com alta performance e segurança. |    Média    |    Alta                 |    Positivo         |         Crucial para a integração eficiente com o frontend e garantindo o desempenho e a segurança do sistema.       |
 |Julia|desenvolver e manter pipelines de dados, banco de dados, projetar arquitetura de dados e garantir a segurança dos dados|Alta|Alta|Positivo|               |
 
-> Opções de avaliação:
-> - Expectativa: descrição da expectativa da parte interessada no projeto.
-> - - Ex.: Diminuição do tempo de realização das tarefas, aumento da produtividade, aumento da satisfação do cliente, etc.
-> - Influência: Alta, Média, Baixa
-> - Importância: Alta, Média, Baixa
-> - Apoio: Positivo, Negativo, Neutro
-> - Observações: Informações adicionais, para o cliente.
-
 ```diff
 + Tarefa 01
 + Fim da seção a ser atualizada.
@@ -157,15 +149,6 @@ Garantir que o sistema completo seja entregue à Localiza, cumprindo todos os re
 ```
 
 # Termo de Abertura do Projeto
-
-> O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
-> Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
-> O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
-> Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
-> Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
-
-> Você pode utilizar como referência o seguinte documento:
-> [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
 
 ## Estimativa de Custo
 
@@ -251,8 +234,6 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 ### Restrições
 
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
-
 A tabela a seguir apresenta as restrições do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
@@ -314,8 +295,6 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 ### Metodologia Adotada
 
 O grupo está utilizando uma combinação das metodologias **Scrum** e **Lean** para organizar e gerenciar o projeto de forma ágil e eficiente.
@@ -333,17 +312,6 @@ A equipe utiliza diversas ferramentas para facilitar a comunicação, organizaç
 - **GitHub:** Controle de versão para colaborar no desenvolvimento de software.
 - **Slack:** Para comunicação rápida e centralizada.
 
->
-> Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
-> O grupo deverá gerenciar as tarefas utilizando o GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-> 
-> **Links Úteis**:
-> - [Github Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
-> - [O que é o GitHub Projects? | Guia de Iniciantes](https://www.youtube.com/watch?v=vxYTpsFKdiQ&ab_channel=JulioArruda)
-> - [Introduction to GitHub Project Boards](https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&ab_channel=MickeyGousset)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 ## Divisão de Papéis
 
 A equipe está dividida de acordo com as especializações de cada membro, garantindo que as tarefas sejam bem distribuídas e todos os aspectos do projeto sejam cobertos.
@@ -357,13 +325,6 @@ A equipe está dividida de acordo com as especializações de cada membro, garan
 - **Julia (Engenheira de Dados):** Responsável pelo desenvolvimento do **banco de dados** e pela configuração da comunicação entre os dispositivos embarcados e o servidor, garantindo que os dados sejam armazenados e transmitidos corretamente.
   
 ## Ferramentas
-
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
-> Todas as ferramentas utilizadas devem ser listadas.
-> Qualquer tipo de ferramenta que for utilizada para construção de um artefato deve ser identificada, uma vez que podem ser necessárias alterações.
-> A necessidade de uso de licenças e possíveis custos relacionados devem ser indicados.
 
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
