@@ -30,6 +30,12 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
+O projeto **Sistema de Monitoramento Avançado para Frotas de Locadoras de Carros** tem como objetivo desenvolver uma solução tecnológica que permita o acompanhamento em tempo real de veículos pertencentes à frota de locadoras, como a Localiza. Esse monitoramento incluirá aspectos cruciais como temperatura, umidade, pressão dos pneus, nível de combustível e eficiência do motor. O objetivo central do sistema é proporcionar uma ferramenta que auxilie na manutenção preditiva, redução de custos operacionais, aumento da segurança e otimização do desempenho da frota. 
+
+O escopo do projeto está limitado à integração de sensores com a plataforma Xilinx Zynq-7000 SoC, além do desenvolvimento de um software que processará os dados coletados e os disponibilizará em uma interface central para análise. O sistema também incluirá funcionalidades de rastreamento por GPS e monitoramento visual por câmeras. Contudo, o projeto não abordará aspectos relacionados à reparação física dos veículos ou questões legais, focando apenas na coleta e análise de dados. Além disso, será respeitado o limite de tempo e recursos disponíveis dentro do semestre acadêmico.
+
+As principais premissas incluem a disponibilidade dos sensores e da infraestrutura necessária para implementação, além da capacidade da plataforma utilizada para suportar o processamento de dados em tempo real. As restrições do projeto envolvem o orçamento limitado, o prazo de execução e as limitações técnicas da plataforma. Qualquer mudança no escopo será analisada cuidadosamente para avaliar seu impacto no cronograma e nos recursos, garantindo que os ajustes necessários sejam devidamente aprovados e implementados de maneira controlada.
+
 > O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
 > O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
 > A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
