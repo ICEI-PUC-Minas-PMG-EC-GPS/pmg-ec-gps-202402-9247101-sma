@@ -1,11 +1,5 @@
 # Planejamento
 
-> A fase de planejamento na gerência de projetos é um momento onde os detalhes do projeto são minuciosamente definidos para garantir uma execução bem-sucedida. 
-> Durante essa etapa, os gerentes de projeto e suas equipes elaboram um plano abrangente que aborda aspectos como cronograma, orçamento, recursos necessários, riscos identificados e métodos de controle. 
-> O objetivo é criar uma estrutura que guiará as atividades ao longo do projeto, garantindo que metas sejam alcançadas de maneira eficiente. 
-> O plano de projeto não apenas define as tarefas específicas e suas interdependências, mas também estabelece critérios de sucesso e indicadores de desempenho. 
-> A qualidade do planejamento influencia diretamente a capacidade da equipe em cumprir prazos, alocar recursos eficientemente e lidar com desafios que possam surgir durante a execução.
-
 # Estrutura do Documento
 
 - [Fase de Planejamento](#planejamento)
@@ -28,23 +22,13 @@
 
 # Escopo do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 O projeto **Sistema de Monitoramento Avançado para Frotas de Locadoras de Carros** tem como objetivo desenvolver uma solução tecnológica que permita o acompanhamento em tempo real de veículos pertencentes à frota de locadoras, como a Localiza. Esse monitoramento incluirá aspectos cruciais como temperatura, umidade, pressão dos pneus, nível de combustível e eficiência do motor. O objetivo central do sistema é proporcionar uma ferramenta que auxilie na manutenção preditiva, redução de custos operacionais, aumento da segurança e otimização do desempenho da frota. 
 
 O escopo do projeto está limitado à integração de sensores com a plataforma Xilinx Zynq-7000 SoC, além do desenvolvimento de um software que processará os dados coletados e os disponibilizará em uma interface central para análise. O sistema também incluirá funcionalidades de rastreamento por GPS e monitoramento visual por câmeras. Contudo, o projeto não abordará aspectos relacionados à reparação física dos veículos ou questões legais, focando apenas na coleta e análise de dados. Além disso, será respeitado o limite de tempo e recursos disponíveis dentro do semestre acadêmico.
 
 As principais premissas incluem a disponibilidade dos sensores e da infraestrutura necessária para implementação, além da capacidade da plataforma utilizada para suportar o processamento de dados em tempo real. As restrições do projeto envolvem o orçamento limitado, o prazo de execução e as limitações técnicas da plataforma. Qualquer mudança no escopo será analisada cuidadosamente para avaliar seu impacto no cronograma e nos recursos, garantindo que os ajustes necessários sejam devidamente aprovados e implementados de maneira controlada.
 
-> O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
-> O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
-> A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
-> Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
-> Utilize como referência a documentação existente na [Fase de Iniciação](/docs/01-iniciacao).
-
 # Estrutura Analítica do Projeto
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > A Estrutura Analítica do Projeto (EAP) proporciona uma representação hierárquica atividades que compõem um projeto. 
 > Organizando o escopo do projeto em componentes gerenciáveis e compreensíveis, a EAP facilita a decomposição do trabalho em partes menores, tornando mais fácil o planejamento, a atribuição de responsabilidades e o monitoramento do progresso. 
