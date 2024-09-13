@@ -167,7 +167,7 @@ Garantir que o sistema completo seja entregue à Localiza, cumprindo todos os re
 
 * Prazo previsto (em horas): 8000 horas
 * Data de início: 01 / 09 / 2024
-* Data de término: 10 / 11 / 2024
+* Data de término: 30 / 09 / 2025
 
 ## Escopo Preliminar e Premissas
 
