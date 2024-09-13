@@ -160,7 +160,7 @@ Garantir que o sistema completo seja entregue à Localiza, cumprindo todos os re
 | Hospedagem e Nuvem      |Hospedagem da Localiza, Nuvem da AWS|2000|1,65|3300|
 | Software de terceiros   |Linux, Visual Code|-|0|0|
 | Serviços e treinamento  |Treinamento para capacitar os funcionários da Localiza em manutenção e instalação dos equipamentos|60|120|7200|
-| **Total Geral**         |           |            |              |972704|
+| **Total Geral**         |           |            |              |972679,56|
 
 
 ## Estimativa de Prazo
