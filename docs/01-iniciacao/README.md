@@ -156,11 +156,11 @@ Garantir que o sistema completo seja entregue à Localiza, cumprindo todos os re
 |-------------------------|-----------|------------|--------------|-------------|
 | Recursos Humanos        |Quatro desenvolvedores|2000|120,00|960.000|
 | Hardware                |sensores de monitoramento e placa de desenvolvimento|-|-|1874 por carro|
-| Serviços de Rede        |Internet|8000|0,15|1200,00|
+| Serviços de Rede        |Internet|8760|0,15|1314,00|
 | Hospedagem e Nuvem      |Hospedagem da Localiza, Nuvem da AWS|2000|1,65|3300|
 | Software de terceiros   |Linux, Visual Code|-|0|0|
 | Serviços e treinamento  |Treinamento para capacitar os funcionários da Localiza em manutenção e instalação dos equipamentos|60|120|7200|
-| **Total Geral**         |           |            |              |972679,56|
+| **Total Geral**         |           |            |              |973688,00|
 
 
 ## Estimativa de Prazo
