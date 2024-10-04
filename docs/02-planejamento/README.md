@@ -66,13 +66,12 @@ As principais premissas incluem a disponibilidade dos sensores e da infraestrutu
 
 > Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
 
-![Matriz RACI](images/raci.png)
+![Matriz RACI](images/Matriz_Raci.png)
 
 
 ### Documento Editável
 
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável da Matriz RACI:
-- [Matriz de Responsabilidades (RACI) - Editável](artefatos/matriz-raci.docx)
+- [Matriz de Responsabilidades (RACI) - Editável](artefatos/matriz_raci_entrega.pdf)
 
 ```diff
 + Tarefa 05:
