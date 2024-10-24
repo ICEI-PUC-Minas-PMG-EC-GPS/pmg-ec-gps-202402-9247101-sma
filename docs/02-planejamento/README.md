@@ -85,7 +85,7 @@ As principais premissas incluem a disponibilidade dos sensores e da infraestrutu
 ```
 
 # Cronograma do Projeto
-
+[Cronograma do Projeto](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-gps-202402-9247101-sma/blob/master/docs/02-planejamento/artefatos/Projeto%202%20(1).mpp)
 
 
 -----
