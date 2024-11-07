@@ -165,10 +165,8 @@ As principais premissas incluem a disponibilidade dos sensores e da infraestrutu
 | Nome       | Descrição   | 
 |------------|-------------|
 | ISSO 26262 | Segurança funcional para sistemas eletrônicos automotivos            |
-| ISSO 9001  |             |
-|            |             |
-|            |             |
-|            |             |
+| ISSO 9001  | Sistema de gestão da qualidade para garantir a consistência e eficiência            |
+| CAN (Controller Area Network)           |  Padrão de comunicação para integração dos sensores         |
 
 ### Ambiente das Atividades de Qualidade
 
@@ -183,19 +181,19 @@ As principais premissas incluem a disponibilidade dos sensores e da infraestrutu
 
 | Nome       | Responsabilidade | 
 |------------|------------------|
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
+|   Lucas         |    Verificação de qualidade dos sensores e coleta de dados              |
+|    Julia        |    Inspeção de funcionalidade e revisão de código              |
+|    Samira        |    Avaliação de relatórios de desempenho e feedback de usabilidade              |
 
-### Metodologias de Qualidade Utilizadas
+
+### Processos (Metodologias) de Qualidade Utilizadas
 
 | Nome       | Descrição   | 
 |------------|-------------|
-|            |             |
-|            |             |
-|            |             |
+| Teste de Unidade            |  Testes realizados em componentes individuais do sistema, como cada sensor.           |
+|  Teste Integrado           |  Verificação da comunicação entre sensores e plataforma central.        |
+| Revisão de Código           |  Avaliação das praticas de desenvolvimento para garantir qualidade e padronização.           |
+| Análise de Dados           |   Verificação dos dados colectados e análise de precisão e consistência.          |
 
 ```diff
 + Tarefa 09:
