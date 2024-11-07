@@ -153,12 +153,11 @@ As principais premissas incluem a disponibilidade dos sensores e da infraestrutu
 
 | Artefato   | Tipo Verif. | Data        | Responsável | Métrica     | Data Correção | Ação Não Conform. | Resp. Avaliação | Resp. Correção |
 |------------|-------------|-------------|-------------|-------------|---------------|-------------------|-----------------|----------------|
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
+|  Codigo-fonte do software          | Revisão de Código     |   10/09/2024          |   Lucas         |   Conformidade com padrões de codificação          |  25/09/2024             |   Corrigir o código e realizar nova revisão          |  Julia                |   Samira             |
+|  Relatórios de monitoramento          |  inspeção           |  05/11/2024           |  Julia           |  Precisão dos dados gerados            |  20/11/2024           |  Análise e ajuste de incosistências          |   Samira              |  Lucas              |
+|  Sistema de sensores           |   Teste funcional          |    15/01/2025         |   Samira          |  Funcionamento conforme especificações           |  30/01/2025             |   Substituição ou ajuste dos sensores          |  Lucas                |    Julia            |
+|   Interface de usuário         |    Teste de usabilidade          |    15/06/2025         |   Lucas          |   Satisfação do usuário          |   30/06/2025            |     Ajustes conforme feedback do usuário              |     Julia            |    Samira            |
+
 
 ### Padrões e Normas Utilizadas
 
