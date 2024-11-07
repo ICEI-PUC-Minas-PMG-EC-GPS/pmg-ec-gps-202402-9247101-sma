@@ -164,8 +164,8 @@ As principais premissas incluem a disponibilidade dos sensores e da infraestrutu
 
 | Nome       | Descrição   | 
 |------------|-------------|
-|            |             |
-|            |             |
+| ISSO 26262 | Segurança funcional para sistemas eletrônicos automotivos            |
+| ISSO 9001  |             |
 |            |             |
 |            |             |
 |            |             |
