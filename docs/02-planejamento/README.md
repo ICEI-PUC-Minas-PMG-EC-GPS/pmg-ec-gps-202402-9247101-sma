@@ -171,10 +171,11 @@ As principais premissas incluem a disponibilidade dos sensores e da infraestrutu
 
 | Ambiente   | Descrição   | 
 |------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-|            |             |
+|Planejamento|Definição de requisitos e especificações do sistema de monitoramento, incluindo escolha dos sensores e módulos (temperatura, umidade, batidas, oxigênio, combustível, TPMS, GPS e câmeras digitais) e compatibilidade com a plataforma Xilinx Zynq-7000 SoC.|
+|Desenvolvimento| Integração dos sensores com a plataforma SoC, desenvolvimento de software para coleta e processamento de dados, e criação de interface central para visualização e análise das informações dos veículos.            |
+|Testes e Validação|   Testes de funcionamento dos sensores e do sistema completo, verificando a precisão e confiabilidade dos dados coletados (como níveis de pressão, temperatura, umidade) e resposta adequada aos eventos monitorados (por exemplo, impactos e alertas de baixa pressão nos pneus).          |
+|Monitoramento e Manutenção|  Verificação constante do desempenho do sistema em veículos da frota, garantindo que os dados estejam sendo enviados corretamente e que não haja falhas nos sensores ou no software.           |
+|Melhoria Contínua|  Avaliação dos dados e feedback da implementação para aprimorar o sistema, incluindo possíveis ajustes em sensores, parâmetros de análise e algoritmos de predição para melhorar a eficiência e segurança da frota.           |
 
 ### Equipe de Qualidade
 
