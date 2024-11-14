@@ -212,6 +212,7 @@ As principais premissas incluem a disponibilidade dos sensores e da infraestrutu
 > O Plano de Aquisições visa garantir a aquisição eficiente e eficaz dos recursos necessários, minimizando riscos e custos. 
 > Além disso, ele proporciona transparência nas relações com fornecedores, promovendo a conformidade com os prazos estabelecidos e padrões de qualidade. 
 
+O Plano de Aquisição para o projeto de Sistema de Monitoramento Avançado para Frotas de Locadoras de Carros abrange a obtenção de bens e serviços essenciais, como sensores variados, módulos GPS, câmeras digitais e a plataforma de desenvolvimento Xilinx Zynq-7000 SoC. Inicia-se pela identificação das necessidades específicas, seguida pela seleção de fornecedores confiáveis que garantam qualidade e compatibilidade com o sistema. Em seguida, são elaborados contratos que detalham prazos, condições de pagamento, garantias e cláusulas de SLA para suporte e manutenção. A gestão do relacionamento com fornecedores é fundamental para acompanhar as entregas e resolver eventuais problemas. Além disso, são implementadas estratégias de gestão de riscos para mitigar atrasos e falhas nos componentes, e assegurar a conformidade dos produtos com os padrões de qualidade, realizando testes para validar o funcionamento adequado. Esse plano visa garantir uma aquisição eficiente e transparente, reduzindo riscos e custos, e assegurando conformidade com prazos e padrões de qualidade.
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
