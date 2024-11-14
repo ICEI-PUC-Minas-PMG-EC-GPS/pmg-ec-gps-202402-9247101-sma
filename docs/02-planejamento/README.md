@@ -36,20 +36,7 @@ As principais premissas incluem a disponibilidade dos sensores e da infraestrutu
 
 - [Estrutura Analítica do Projeto - Editável](https://drive.google.com/file/d/1yG2TLAPFsRL61zsbpPlQb86z47ZYJFpG/view?usp=sharing)
 
-```diff
-+ Tarefa 04:
-+ Fim da seção a ser atualizada.
-```
-
------
-```diff
-+ Tarefa 05:
-+ Matriz de Responsabilidades (RACI)
-```
-
 # Matriz de Responsabilidades
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > A Matriz de Responsabilidades é uma ferramenta para definir e indicar as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
 > Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
@@ -64,8 +51,6 @@ As principais premissas incluem a disponibilidade dos sensores e da infraestrutu
 > 
 > Link de auxílio: https://www.forbes.com/advisor/business/raci-chart/
 
-> Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
-
 ![Matriz RACI](images/Matriz_Raci.png)
 
 
@@ -73,39 +58,14 @@ As principais premissas incluem a disponibilidade dos sensores e da infraestrutu
 
 - [Matriz de Responsabilidades (RACI) - Editável](artefatos/matriz_raci_entrega.pdf)
 
-```diff
-+ Tarefa 05:
-+ Fim da seção a ser atualizada.
-```
-
------
-```diff
-+ Tarefa 07:
-+ Cronograma do Projeto
-```
-
 # Cronograma do Projeto
 [Cronograma do Projeto](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-gps-202402-9247101-sma/blob/master/docs/02-planejamento/artefatos/Projeto%202%20(1).mpp)
-
-
------
-```diff
-+ Tarefa 08:
-+ Orçamento do Projeto
-```
 
 # Orçamento do Projeto
 
 ![image](https://github.com/user-attachments/assets/55162399-d05e-43a1-a417-a99e5a512e9a)
 ![image](https://github.com/user-attachments/assets/c015326a-a215-4372-a9f9-34cf5d48cd20)
 
-
-
-
-```diff
-+ Tarefa 08:
-+ Fim da seção a ser atualizada.
-```
 
 # Planos de Gerenciamento
 
@@ -195,16 +155,6 @@ As principais premissas incluem a disponibilidade dos sensores e da infraestrutu
 | Revisão de Código           |  Avaliação das praticas de desenvolvimento para garantir qualidade e padronização.           |
 | Análise de Dados           |   Verificação dos dados colectados e análise de precisão e consistência.          |
 
-```diff
-+ Tarefa 09:
-+ Fim da seção a ser atualizada.
-```
-
-```diff
-+ Tarefa 10:
-+ Especificação de Produto para Aquisição
-```
-
 ## Plano de Aquisição
 
 > O Plano de Aquisições define o processo relacionado à aquisição de bens e serviços necessários para a execução do projeto. 
@@ -213,21 +163,12 @@ As principais premissas incluem a disponibilidade dos sensores e da infraestrutu
 > Além disso, ele proporciona transparência nas relações com fornecedores, promovendo a conformidade com os prazos estabelecidos e padrões de qualidade. 
 
 O Plano de Aquisição para o projeto de Sistema de Monitoramento Avançado para Frotas de Locadoras de Carros abrange a obtenção de bens e serviços essenciais, como sensores variados, módulos GPS, câmeras digitais e a plataforma de desenvolvimento Xilinx Zynq-7000 SoC. Inicia-se pela identificação das necessidades específicas, seguida pela seleção de fornecedores confiáveis que garantam qualidade e compatibilidade com o sistema. Em seguida, são elaborados contratos que detalham prazos, condições de pagamento, garantias e cláusulas de SLA para suporte e manutenção. A gestão do relacionamento com fornecedores é fundamental para acompanhar as entregas e resolver eventuais problemas. Além disso, são implementadas estratégias de gestão de riscos para mitigar atrasos e falhas nos componentes, e assegurar a conformidade dos produtos com os padrões de qualidade, realizando testes para validar o funcionamento adequado. Esse plano visa garantir uma aquisição eficiente e transparente, reduzindo riscos e custos, e assegurando conformidade com prazos e padrões de qualidade.
+
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
 - [Especificação Produto Aquisição - Editável](artefatos/aquisicao_produtos.docx)
 
-
-```diff
-+ Tarefa 10:
-+ Fim da seção a ser atualizada.
-```
-
-```diff
-+ Tarefa 11:
-+ Plano de Comunicação
-```
 
 ## Plano de Comunicação
 
@@ -242,56 +183,51 @@ O Plano de Aquisição para o projeto de Sistema de Monitoramento Avançado para
 
 ### Plano de Comunicação do Projeto
 
-| Entregável                         | Público Alvo | Met. Comunicação | Frequência  | Responsável | 
-|------------------------------------|--------------|------------------|-------------|-------------|
-| Ata de reunião                     |              |                  |             |             |
-| Declaração de escopo               |              |                  |             |             |
-| WBS                                |              |                  |             |             |
-| Dicionário da WBS                  |              |                  |             |             |
-| Cronograma                         |              |                  |             |             |
-| Lista de Riscos                    |              |                  |             |             |
-| Plano de qualidade                 |              |                  |             |             |
-| Plano de projeto                   |              |                  |             |             |
-| Relatório de Progresso             |              |                  |             |             |
-| Relatório de Aderência ao Processo |              |                  |             |             |
-| Checklists de Inspeção             |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
+| Entregável                       | Público Alvo                  | Método de Comunicação           | Frequência        | Responsável         |
+|----------------------------------|-------------------------------|---------------------------------|-------------------|---------------------|
+| Ata de reunião                   | Equipe do projeto             | Reunião presencial/virtual      | Semanal           | Gerente de projeto  |
+| Declaração de escopo             | Equipe do projeto, cliente    | E-mail                          | Inicial           | Gerente de projeto  |
+| WBS                              | Equipe do projeto             | Reunião virtual                 | Inicial           | Gerente de projeto  |
+| Dicionário da WBS                | Equipe do projeto             | Documento compartilhado         | Inicial           | Gerente de projeto  |
+| Cronograma                       | Equipe do projeto, cliente    | Reunião virtual, e-mail         | Mensal            | Gerente de projeto  |
+| Lista de Riscos                  | Equipe do projeto             | Reunião virtual                 | Semanal           | Gerente de riscos   |
+| Plano de qualidade               | Equipe do projeto, cliente    | Documento compartilhado         | Inicial           | Gerente de qualidade|
+| Plano de projeto                 | Equipe do projeto, cliente    | E-mail, documento compartilhado | Inicial           | Gerente de projeto  |
+| Relatório de Progresso           | Equipe do projeto, cliente    | Reunião virtual, e-mail         | Quinzenal         | Gerente de projeto  |
+| Relatório de Aderência ao Processo| Equipe de qualidade          | Documento compartilhado         | Mensal            | Gerente de qualidade|
+| Checklists de Inspeção           | Equipe de qualidade           | Documento compartilhado         | Conforme necessário| Gerente de qualidade|
 
-> Legenda:
-> - Público: a quem se destina a comunicação.
-> - Método de Comunicação: e_mail, reunião presencial, reunião virtual, etc.
-> - Freqüência: diária, semanal, quinzenal, mensal, etc.
-> - Responsável: pessoa responsável pela comunicação.
+
+> *Legenda:*
+> - *Público Alvo:* a quem se destina a comunicação.
+> - *Método de Comunicação:* e-mail, reunião presencial, reunião virtual, etc.
+> - *Frequência:* diária, semanal, quinzenal, mensal, etc.
+> - *Responsável:* pessoa responsável pela comunicação.
 
 ### Plano de Gerência de Comunicação
 
-> Indique:
-> - Ferramentas utilizadas no projeto - adicionar link de acesso às ferramentas
-> - Papéis: responsáveis pelas correspondentes no projeto
-> - Princípios gerais: indica quais princípios serão adotados no plano de comunicação, como clareza, objetividade, impessoalidade, imparcialidade e cordialidade. Detalhar.
->
-> Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
+O Plano de Gerência de Comunicação do projeto define as ferramentas, papéis e princípios que serão adotados para garantir uma comunicação eficaz, clara e eficiente entre todos os envolvidos. Esse plano visa proporcionar clareza na troca de informações, evitando mal-entendidos e melhorando o engajamento e alinhamento da equipe.
 
-- Ferramentas utilizadas:
-- - [Ferramenta 01](https://pucminas.br)
-  - [Ferramenta 02](https://pucminas.br)
-  - [Ferramenta 03](https://pucminas.br)
-- Papéis:
-- - ...
-  - ...
-  - ...
-- Princípios gerais
-- - ...
-  - ...
-  - ...
-  - ...
+### Ferramentas Utilizadas
+1. *Microsoft Teams* - Utilizado para reuniões virtuais e troca de mensagens instantâneas entre a equipe.
+2. *Trello* - Ferramenta de gestão de tarefas, usada para acompanhamento do progresso das atividades e cronogramas do projeto.
+3. *Microsoft SharePoint* - Plataforma de armazenamento e compartilhamento de documentos, onde serão armazenados relatórios, atas e outros documentos do projeto.
+4. *E-mail (Outlook)* - Canal oficial para comunicações formais e envio de documentos e atualizações importantes para a equipe e partes interessadas.
 
-```diff
-+ Tarefa 11:
-+ Fim da seção a ser atualizada.
-```
+### Papéis
+- *Gerente de Projeto*: Responsável por supervisionar toda a comunicação do projeto, garantindo que informações cruciais sejam transmitidas para todos os envolvidos no momento adequado.
+- *Gerente de Riscos*: Cuida das comunicações relacionadas a riscos identificados e mitigação, mantendo a equipe informada sobre possíveis impactos.
+- *Gerente de Qualidade*: Responsável por comunicar o status dos padrões de qualidade, além de revisar e compartilhar documentos como o Plano de Qualidade e Relatórios de Aderência ao Processo.
+- *Equipe Técnica*: Encarregada de atualizar o progresso técnico e colaborar com as partes interessadas em discussões técnicas e revisões de desenvolvimento.
+
+### Princípios Gerais
+1. *Clareza e Objetividade*: Todas as comunicações devem ser diretas e sem ambiguidades, facilitando o entendimento de todos.
+2. *Imparcialidade e Transparência*: Manter a transparência em todas as informações compartilhadas, independentemente do status do projeto.
+3. *Cordialidade e Profissionalismo*: Garantir que todas as interações sejam respeitosas e mantenham um ambiente colaborativo.
+4. *Pontualidade*: Respeitar prazos nas respostas e compartilhamento de informações, para que as decisões sejam tomadas com base em dados atualizados.
+
+### Plano de Gerência de Configuração
+A gerência de configuração será feita principalmente através do *SharePoint* e do *Trello*. O SharePoint será o repositório principal de documentos, permitindo o controle de versões e acesso apenas às versões mais recentes dos documentos. No Trello, a equipe poderá acompanhar e controlar o progresso das atividades, assegurando que todas as tarefas estejam atualizadas.
 
 ```diff
 + Tarefa 12:
