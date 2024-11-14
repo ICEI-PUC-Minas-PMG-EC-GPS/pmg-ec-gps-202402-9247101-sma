@@ -81,8 +81,6 @@ As principais premissas incluem a disponibilidade dos sensores e da infraestrutu
 
 ## Plano de Qualidade
 
-...... DESCREVA SUCINTAMENTE O PLANO DE QUALIDADE UTILIZADO NO PROJETO ......
-
 > O Plano de Qualidade auxilia a garantir que as entregas do projeto atendam aos padrões de qualidade definidos. 
 > Este plano abrange atividades como definição de padrões, procedimentos de garantia de qualidade, critérios de aceitação e processos de monitoramento e controle da qualidade ao longo do ciclo de vida do projeto. 
 > Ao identificar metas de qualidade, responsabilidades da equipe, e métricas de avaliação, o Plano de Qualidade busca assegurar que o projeto atinja ou exceda as expectativas dos stakeholders em termos de desempenho e conformidade. 
@@ -108,6 +106,88 @@ As principais premissas incluem a disponibilidade dos sensores e da infraestrutu
 
 > Você pode utilizar como referência o seguinte documento:
 > [Checklist de Qualidade](artefatos/checklist_qualidade.docx)
+
+### Objetivo do Plano de Qualidade
+O objetivo do Plano de Qualidade é garantir que as entregas do projeto **Sistema de Monitoramento Avançado para Frotas de Locadoras de Carros (SMA)** atendam aos padrões definidos, assegurando confiabilidade, segurança e funcionalidade. O plano abrange monitoramento contínuo dos processos, testes rigorosos e verificações para garantir conformidade com os requisitos.
+
+---
+
+### Normas e Padrões Adotados
+1. **ISO 26262** - Segurança funcional para sistemas automotivos.
+2. **ISO 9001** - Gestão de qualidade para garantir consistência nos processos.
+3. **ISO/IEC 25010** - Qualidade de software, focando em usabilidade, confiabilidade e eficiência.
+
+---
+
+### Processos de Garantia da Qualidade
+Os processos de garantia da qualidade serão baseados em metodologias ágeis (Scrum) e testes iterativos:
+- **Testes de Unidade**: Avaliar cada componente individualmente (e.g., sensores, módulos GPS).
+- **Testes de Integração**: Verificar a comunicação entre sensores e plataforma.
+- **Testes Funcionais**: Avaliar se os requisitos definidos (e.g., monitoramento de temperatura) estão sendo atendidos.
+- **Testes de Usabilidade**: Garantir que a interface do usuário seja intuitiva e funcional.
+
+---
+
+### Responsabilidades da Qualidade
+
+| Nome       | Cargo                  | Responsabilidade                                   |
+|------------|------------------------|---------------------------------------------------|
+| Lucas      | Engenheiro de Software | Garantir a funcionalidade e integração do backend|
+| Julia      | Engenheira de Dados    | Garantir a segurança e integridade dos dados     |
+| Samira     | Engenheira de Software | Garantir a usabilidade e qualidade do frontend   |
+| Fernanda   | Engenheira de Hardware | Testar e validar os sensores e integração física |
+
+---
+
+### Critérios de Aceitação
+1. **Conformidade**: Todas as funcionalidades devem estar alinhadas aos requisitos funcionais e não funcionais definidos.
+2. **Eficiência**: O sistema deve processar os dados em tempo real com um mínimo de 95% de precisão.
+3. **Usabilidade**: O sistema deve atingir um índice de satisfação superior a 90% em testes de usuário.
+4. **Segurança**: Os dados devem ser criptografados, e qualquer falha de segurança deve ser corrigida antes da entrega.
+
+---
+
+### Métricas de Qualidade
+
+| Métrica                     | Descrição                              | Meta Alvo         |
+|-----------------------------|----------------------------------------|-------------------|
+| Taxa de Defeitos            | Número médio de defeitos detectados    | Máximo de 3/mês   |
+| Cobertura de Código         | Percentual de código coberto por testes| Mínimo de 85%     |
+| Taxa de Aprovação           | Entregas aprovadas na primeira avaliação| Mínimo de 95%     |
+| Satisfação do Cliente       | Avaliação dos stakeholders             | Superior a 90%    |
+
+---
+
+### Cronograma de Qualidade
+
+| Atividade                   | Frequência      | Responsável             |
+|-----------------------------|-----------------|-------------------------|
+| Revisões de Código          | Semanal         | Lucas                   |
+| Auditorias de Qualidade     | Mensal          | Gerente de Qualidade    |
+| Testes Funcionais           | Conforme Sprint | Equipe de Desenvolvimento |
+| Feedback de Usuários        | Após Testes     | Gerente de Projeto      |
+
+---
+
+### Riscos de Qualidade
+
+| Risco                      | Impacto       | Mitigação                                      |
+|----------------------------|---------------|-----------------------------------------------|
+| Inconsistências nos Dados  | Alto          | Revisão frequente e validação dos sensores    |
+| Falhas na Integração       | Médio         | Realização de testes integrados contínuos     |
+| Atrasos na Correção        | Alto          | Priorização de bugs críticos na sprint atual  |
+
+---
+
+### Ferramentas de Qualidade
+1. **SonarQube**: Para análise de código.
+2. **Selenium**: Para testes de automação.
+3. **Jira**: Para rastreamento de tarefas e bugs.
+
+---
+
+Esse Plano de Qualidade será revisado periodicamente, garantindo que as práticas e métricas sejam ajustadas conforme o progresso do projeto e o feedback recebido.
+
 
 ### Artefatos a serem verificados
 
