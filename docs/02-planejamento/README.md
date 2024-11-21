@@ -333,16 +333,6 @@ Além disso, a identificação de pontos de monitoramento contínuo ao longo do 
 - **Medidas de Contingência (Mitigação)**: Medidas que devem ser adotadas caso o risco se concretize.
 
 
-> Indique:
-> Categoria do Risco: *ex.: Cliente, Cronograma, Orçamento, Aquisição de produtos, etc*
-> Descrição do Risco: *ex.: Cliente não aparenta ter muito interesse no projeto*
-> Impacto: *Baixo / Médio / Alto*
-> Risco: *Baixo / Médio / Alto*
-> Medidas de Prevenção: *Medidas que devem ser adotadas para evitar que o risco se concretize*
-> Medidas de Contingência: *Medidas que devem ser adotadas caso o risco se concretize*
->
-> *Obs.: Para determinar o risco considere a seguinte combinação entre Probabilidade e Impacto:
-
 | Probabilidade | Impacto       | Risco         |
 |---------------|---------------|---------------|
 | Baixo         | Baixo         | Baixo         |
