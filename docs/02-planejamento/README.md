@@ -315,13 +315,15 @@ Além disso, a identificação de pontos de monitoramento contínuo ao longo do 
 
 
 
-| **Categoria do Risco** | **Descrição do Risco**                                                                 | **Impacto** | **Risco** | **Medidas de Prevenção (Contramedidas)**                                                   | **Medidas de Contingência (Mitigação)**                                      |
-|-------------------------|---------------------------------------------------------------------------------------|-------------|-----------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| Cronograma              | Atrasos no desenvolvimento do sistema devido à complexidade de integração dos sensores | Alto        | Alto      | Planejamento detalhado e acompanhamento semanal do cronograma.                          | Redirecionar recursos para tarefas críticas e priorizar entregáveis.         |
-| Aquisição de produtos   | Falta de disponibilidade de sensores ou componentes necessários no mercado            | Médio       | Médio     | Pesquisar fornecedores alternativos e antecipar a compra dos itens essenciais.          | Substituir por componentes equivalentes ou realizar adaptações no sistema.   |
-| Orçamento               | Estouro de custos devido a gastos não previstos                                       | Alto        | Alto      | Estabelecer uma margem no orçamento e monitoramento rigoroso dos gastos.                | Reavaliar escopo e priorizar funcionalidades críticas para reduzir custos.   |
-| Equipe                  | Falta de expertise técnica em integração da plataforma Xilinx Zynq-7000 SoC           | Médio       | Médio     | Treinamento prévio da equipe e suporte técnico do fornecedor da plataforma.             | Contratar consultoria ou distribuir tarefas complexas entre especialistas.   |
-| Cliente                 | Mudanças inesperadas nos requisitos do projeto solicitadas pelo cliente               | Médio       | Médio     | Reuniões frequentes com o cliente para validar o escopo e documentar alterações.         | Negociar prazos adicionais para atender às novas demandas.                   |
+| **Categoria do Risco** | **Descrição do Risco**                                | **Probabilidade** | **Impacto** | **Risco** | **Medidas de Prevenção (Contramedidas)**                          | **Medidas de Contingência (Mitigação)**                          |
+|-------------------------|-------------------------------------------------------|-------------------|-------------|-----------|------------------------------------------------------------------|-----------------------------------------------------------------|
+| Cliente                | Falta de envolvimento do cliente no desenvolvimento.  | Médio             | Médio       | Médio     | Realizar reuniões regulares e obter feedback em cada etapa.     | Ajustar cronograma e priorizar entregas mínimas viáveis.        |
+| Cronograma             | Atraso na entrega de componentes essenciais.          | Alto              | Alto        | Alto      | Identificar fornecedores confiáveis e planejar prazos de backup.| Negociar prazos adicionais e redistribuir tarefas críticas.      |
+| Orçamento              | Superação do orçamento inicial estimado.              | Médio             | Alto        | Alto      | Revisar orçamento periodicamente e monitorar gastos detalhados. | Buscar fontes adicionais de financiamento ou reduzir escopo.    |
+| Aquisição de Produtos  | Atraso na chegada de sensores e componentes críticos. | Alto              | Médio       | Alto      | Contatar fornecedores com antecedência e prever estoque extra.  | Identificar fornecedores alternativos e redefinir entregas.      |
+| Tecnologia             | Falha na integração dos sensores ao sistema.          | Baixo             | Alto        | Médio     | Realizar testes unitários durante a integração.                 | Revisar arquitetura do sistema e reforçar suporte técnico.      |
+| Equipe                 | Perda de um membro essencial do time.                 | Médio             | Alto        | Alto      | Criar documentação detalhada e compartilhar conhecimento.       | Reorganizar funções e contratar substituto rapidamente.         |
+
 
 **Legenda**:
 
