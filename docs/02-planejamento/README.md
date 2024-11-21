@@ -322,18 +322,14 @@ A gerência de configuração será feita principalmente através do *SharePoint
 > Você pode utilizar como referência o seguinte documento:
 - [Plano de Gerenciamento de Riscos - Editável](artefatos/plano_riscos.xls)
 
-| Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
-|---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
+| **Categoria do Risco** | **Descrição do Risco**                                                                 | **Impacto** | **Risco** | **Medidas de Prevenção (Contramedidas)**                                                   | **Medidas de Contingência (Mitigação)**                                      |
+|-------------------------|---------------------------------------------------------------------------------------|-------------|-----------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| Cronograma              | Atrasos no desenvolvimento do sistema devido à complexidade de integração dos sensores | Alto        | Alto      | Planejamento detalhado e acompanhamento semanal do cronograma.                          | Redirecionar recursos para tarefas críticas e priorizar entregáveis.         |
+| Aquisição de produtos   | Falta de disponibilidade de sensores ou componentes necessários no mercado            | Médio       | Médio     | Pesquisar fornecedores alternativos e antecipar a compra dos itens essenciais.          | Substituir por componentes equivalentes ou realizar adaptações no sistema.   |
+| Orçamento               | Estouro de custos devido a gastos não previstos                                       | Alto        | Alto      | Estabelecer uma margem no orçamento e monitoramento rigoroso dos gastos.                | Reavaliar escopo e priorizar funcionalidades críticas para reduzir custos.   |
+| Equipe                  | Falta de expertise técnica em integração da plataforma Xilinx Zynq-7000 SoC           | Médio       | Médio     | Treinamento prévio da equipe e suporte técnico do fornecedor da plataforma.             | Contratar consultoria ou distribuir tarefas complexas entre especialistas.   |
+| Cliente                 | Mudanças inesperadas nos requisitos do projeto solicitadas pelo cliente               | Médio       | Médio     | Reuniões frequentes com o cliente para validar o escopo e documentar alterações.         | Negociar prazos adicionais para atender às novas demandas.                   |
+
 
 > Indique:
 > Categoria do Risco: *ex.: Cliente, Cronograma, Orçamento, Aquisição de produtos, etc*
