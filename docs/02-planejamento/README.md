@@ -334,6 +334,8 @@ Além disso, a identificação de pontos de monitoramento contínuo ao longo do 
 - **Medidas de Prevenção (Contramedidas)**: Medidas que devem ser adotadas para evitar que o risco se concretize.
 - **Medidas de Contingência (Mitigação)**: Medidas que devem ser adotadas caso o risco se concretize.
 
+###Análise Qualitativa dos Riscos
+Os riscos foram avaliados quanto à probabilidade de ocorrência e impacto em uma escala qualitativa (Baixo, Médio, Alto). Para priorização, foi utilizada a Matriz de Probabilidade x Impacto:
 
 | Probabilidade | Impacto       | Risco         |
 |---------------|---------------|---------------|
@@ -347,7 +349,51 @@ Além disso, a identificação de pontos de monitoramento contínuo ao longo do 
 | Médio         | Alto          | Alto          |
 | Alto          | Médio         | Alto          |
 
+### Análise Quantitativa dos Riscos
+Para riscos críticos, foram aplicadas as seguintes técnicas:
+1. **Simulação Monte Carlo**: Estimativa de atrasos e impacto financeiro devido à falta de componentes.
+2. **Árvores de Decisão**: Avaliação de custos para mitigação versus aceitação do risco.
 
+---
+
+### Estratégias de Resposta aos Riscos
+
+#### Técnicas de Resposta
+- **Evitar**: Eliminar a causa do risco ajustando o escopo ou cronograma.
+- **Mitigar**: Reduzir a probabilidade ou impacto (ex.: testes iterativos, validação contínua).
+- **Transferir**: Delegar o risco a terceiros (ex.: contratos com cláusulas de SLA).
+- **Aceitar**: Planejar ações reativas caso o risco se materialize.
+
+---
+
+### Monitoramento e Controle dos Riscos
+O monitoramento será realizado durante as reuniões quinzenais, com revisões contínuas do **Registro de Riscos**. Indicadores de desempenho serão utilizados para medir a eficácia das respostas aos riscos:
+
+| **Indicador**               | **Descrição**                                                | **Meta**           |
+|-----------------------------|------------------------------------------------------------|--------------------|
+| Número de riscos ativos     | Quantidade de riscos não resolvidos                         | < 5               |
+| Desvios no orçamento        | Impacto financeiro dos riscos ocorridos                    | < 10% do orçamento|
+| Desvios no cronograma       | Dias de atraso devido a riscos materializados              | < 5% do prazo     |
+| Eficiência das respostas    | Percentual de ações preventivas que evitaram materialização| > 90%             |
+
+---
+
+### Registro de Riscos
+
+#### Exemplo de Registro de Riscos
+
+| **ID** | **Risco**                              | **Probabilidade** | **Impacto** | **Nível de Risco** | **Ação Preventiva**             | **Responsável** |
+|--------|----------------------------------------|-------------------|-------------|--------------------|---------------------------------|------------------|
+| R001   | Atraso na entrega de sensores          | Alto              | Médio       | Alto               | Contratar fornecedores alternativos| Gerente de Aquisições|
+| R002   | Falha na integração dos sensores       | Baixo             | Alto        | Médio              | Realizar testes de unidade       | Engenheiro de Software|
+| R003   | Perda de membro essencial da equipe    | Médio             | Alto        | Alto               | Compartilhar conhecimento         | Gerente de Projeto|
+
+---
+
+### Ferramentas Utilizadas
+1. **Microsoft Teams**: Para coordenação e comunicação de riscos.
+2. **Excel/Google Sheets**: Para manutenção do registro de riscos.
+3. **Jira/Trello**: Para acompanhamento de ações relacionadas aos riscos.
 ```diff
 + Tarefa 12:
 + Fim da seção a ser atualizada.
