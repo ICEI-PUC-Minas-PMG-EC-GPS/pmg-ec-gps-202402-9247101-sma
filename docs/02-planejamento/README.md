@@ -241,65 +241,78 @@ Esse Plano de Qualidade será revisado periodicamente, garantindo que as prátic
 O Plano de Aquisição para o projeto de Sistema de Monitoramento Avançado para Frotas de Locadoras de Carros abrange a obtenção de bens e serviços essenciais, como sensores variados, módulos GPS, câmeras digitais e a plataforma de desenvolvimento Xilinx Zynq-7000 SoC. Inicia-se pela identificação das necessidades específicas, seguida pela seleção de fornecedores confiáveis que garantam qualidade e compatibilidade com o sistema. Em seguida, são elaborados contratos que detalham prazos, condições de pagamento, garantias e cláusulas de SLA para suporte e manutenção. A gestão do relacionamento com fornecedores é fundamental para acompanhar as entregas e resolver eventuais problemas. Além disso, são implementadas estratégias de gestão de riscos para mitigar atrasos e falhas nos componentes, e assegurar a conformidade dos produtos com os padrões de qualidade, realizando testes para validar o funcionamento adequado. Esse plano visa garantir uma aquisição eficiente e transparente, reduzindo riscos e custos, e assegurando conformidade com prazos e padrões de qualidade.
 
 
-## Plano de Comunicação
+# Plano de Comunicação
 
-...... DESCREVA SUCINTAMENTE O PLANO DE COMUNICAÇÃO UTILIZADO NO PROJETO ......
+O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. Este plano abrange:
 
-> O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. 
-> Este plano abrange aspectos como os meios de comunicação, a frequência das atualizações, os canais de distribuição de informações e os responsáveis pela comunicação. 
-> Uma comunicação eficiente não apenas previne mal-entendidos e conflitos, mas também fortalece o engajamento da equipe e o apoio das partes interessadas. 
->
-> Você pode utilizar como referência o seguinte documento:
-- [Plano de Gerenciamento de Comunicação - Editável](artefatos/plano_comunicacao.docx)
+- **Meios de comunicação**: Definição das ferramentas e canais utilizados.
+- **Frequência das atualizações**: Determinação da periodicidade para compartilhar informações.
+- **Canais de distribuição de informações**: Identificação de quem recebe, consulta ou aprova cada tipo de informação.
+- **Responsáveis pela comunicação**: Designação de papéis e responsabilidades no fluxo de informações.
 
-### Plano de Comunicação do Projeto
+Uma comunicação eficiente previne mal-entendidos e conflitos, fortalecendo o engajamento da equipe e o apoio das partes interessadas.
 
-| Entregável                       | Público Alvo                  | Método de Comunicação           | Frequência        | Responsável         |
-|----------------------------------|-------------------------------|---------------------------------|-------------------|---------------------|
-| Ata de reunião                   | Equipe do projeto             | Reunião presencial/virtual      | Semanal           | Gerente de projeto  |
-| Declaração de escopo             | Equipe do projeto, cliente    | E-mail                          | Inicial           | Gerente de projeto  |
-| WBS                              | Equipe do projeto             | Reunião virtual                 | Inicial           | Gerente de projeto  |
-| Dicionário da WBS                | Equipe do projeto             | Documento compartilhado         | Inicial           | Gerente de projeto  |
-| Cronograma                       | Equipe do projeto, cliente    | Reunião virtual, e-mail         | Mensal            | Gerente de projeto  |
-| Lista de Riscos                  | Equipe do projeto             | Reunião virtual                 | Semanal           | Gerente de riscos   |
-| Plano de qualidade               | Equipe do projeto, cliente    | Documento compartilhado         | Inicial           | Gerente de qualidade|
-| Plano de projeto                 | Equipe do projeto, cliente    | E-mail, documento compartilhado | Inicial           | Gerente de projeto  |
-| Relatório de Progresso           | Equipe do projeto, cliente    | Reunião virtual, e-mail         | Quinzenal         | Gerente de projeto  |
-| Relatório de Aderência ao Processo| Equipe de qualidade          | Documento compartilhado         | Mensal            | Gerente de qualidade|
-| Checklists de Inspeção           | Equipe de qualidade           | Documento compartilhado         | Conforme necessário| Gerente de qualidade|
+> Referência: [Plano de Gerenciamento de Comunicação - Editável](artefatos/plano_comunicacao.docx)
 
+---
 
-> *Legenda:*
-> - *Público Alvo:* a quem se destina a comunicação.
-> - *Método de Comunicação:* e-mail, reunião presencial, reunião virtual, etc.
-> - *Frequência:* diária, semanal, quinzenal, mensal, etc.
-> - *Responsável:* pessoa responsável pela comunicação.
+## Plano de Comunicação do Projeto
 
-### Plano de Gerência de Comunicação
+| **Entregável**                   | **Público Alvo**             | **Método de Comunicação**     | **Frequência**    | **Responsável**      |
+|----------------------------------|-----------------------------|-------------------------------|-------------------|----------------------|
+| Ata de reunião                   | Equipe do projeto           | Reunião presencial/virtual    | Semanal           | Gerente de projeto   |
+| Declaração de escopo             | Equipe do projeto, cliente  | E-mail                        | Inicial           | Gerente de projeto   |
+| WBS                              | Equipe do projeto           | Reunião virtual               | Inicial           | Gerente de projeto   |
+| Dicionário da WBS                | Equipe do projeto           | Documento compartilhado       | Inicial           | Gerente de projeto   |
+| Cronograma                       | Equipe do projeto, cliente  | Reunião virtual, e-mail       | Mensal            | Gerente de projeto   |
+| Lista de Riscos                  | Equipe do projeto           | Reunião virtual               | Semanal           | Gerente de riscos    |
+| Plano de qualidade               | Equipe do projeto, cliente  | Documento compartilhado       | Inicial           | Gerente de qualidade |
+| Plano de projeto                 | Equipe do projeto, cliente  | E-mail, documento compartilhado | Inicial         | Gerente de projeto   |
+| Relatório de Progresso           | Equipe do projeto, cliente  | Reunião virtual, e-mail       | Quinzenal         | Gerente de projeto   |
+| Relatório de Aderência ao Processo| Equipe de qualidade         | Documento compartilhado       | Mensal            | Gerente de qualidade |
+| Checklists de Inspeção           | Equipe de qualidade         | Documento compartilhado       | Conforme necessário| Gerente de qualidade |
 
-O Plano de Gerência de Comunicação do projeto define as ferramentas, papéis e princípios que serão adotados para garantir uma comunicação eficaz, clara e eficiente entre todos os envolvidos. Esse plano visa proporcionar clareza na troca de informações, evitando mal-entendidos e melhorando o engajamento e alinhamento da equipe.
+---
 
-### Ferramentas Utilizadas
-1. *Microsoft Teams* - Utilizado para reuniões virtuais e troca de mensagens instantâneas entre a equipe.
-2. *Trello* - Ferramenta de gestão de tarefas, usada para acompanhamento do progresso das atividades e cronogramas do projeto.
-3. *Microsoft SharePoint* - Plataforma de armazenamento e compartilhamento de documentos, onde serão armazenados relatórios, atas e outros documentos do projeto.
-4. *E-mail (Outlook)* - Canal oficial para comunicações formais e envio de documentos e atualizações importantes para a equipe e partes interessadas.
+## Gerência de Comunicação
 
-### Papéis
-- *Gerente de Projeto*: Responsável por supervisionar toda a comunicação do projeto, garantindo que informações cruciais sejam transmitidas para todos os envolvidos no momento adequado.
-- *Gerente de Riscos*: Cuida das comunicações relacionadas a riscos identificados e mitigação, mantendo a equipe informada sobre possíveis impactos.
-- *Gerente de Qualidade*: Responsável por comunicar o status dos padrões de qualidade, além de revisar e compartilhar documentos como o Plano de Qualidade e Relatórios de Aderência ao Processo.
-- *Equipe Técnica*: Encarregada de atualizar o progresso técnico e colaborar com as partes interessadas em discussões técnicas e revisões de desenvolvimento.
+### **Objetivo**
+Garantir que informações cruciais sejam transmitidas de maneira clara, eficiente e no tempo adequado para todos os envolvidos no projeto. 
 
-### Princípios Gerais
-1. *Clareza e Objetividade*: Todas as comunicações devem ser diretas e sem ambiguidades, facilitando o entendimento de todos.
-2. *Imparcialidade e Transparência*: Manter a transparência em todas as informações compartilhadas, independentemente do status do projeto.
-3. *Cordialidade e Profissionalismo*: Garantir que todas as interações sejam respeitosas e mantenham um ambiente colaborativo.
-4. *Pontualidade*: Respeitar prazos nas respostas e compartilhamento de informações, para que as decisões sejam tomadas com base em dados atualizados.
+### **Ferramentas Utilizadas**
+1. **Microsoft Teams**: Para reuniões virtuais, chats e videoconferências.
+2. **Trello**: Para gestão de tarefas e acompanhamento do progresso do projeto.
+3. **Microsoft SharePoint**: Para armazenamento centralizado e controle de versões de documentos.
+4. **E-mail (Outlook)**: Para comunicações formais e envio de atualizações importantes.
 
-### Plano de Gerência de Configuração
-A gerência de configuração será feita principalmente através do *SharePoint* e do *Trello*. O SharePoint será o repositório principal de documentos, permitindo o controle de versões e acesso apenas às versões mais recentes dos documentos. No Trello, a equipe poderá acompanhar e controlar o progresso das atividades, assegurando que todas as tarefas estejam atualizadas.
+---
 
+### **Papéis na Comunicação**
+- **Gerente de Projeto**: Supervisiona toda a comunicação, garantindo a disseminação das informações relevantes.
+- **Gerente de Riscos**: Comunica riscos identificados, planos de mitigação e mudanças no status.
+- **Gerente de Qualidade**: Fornece atualizações sobre padrões de qualidade, revisões e relatórios.
+- **Equipe Técnica**: Atualiza sobre o progresso técnico e participa de discussões e revisões.
+
+---
+
+### **Princípios Gerais**
+1. **Clareza e Objetividade**: Mensagens devem ser diretas e compreensíveis.
+2. **Transparência**: Compartilhar informações relevantes de forma honesta e imparcial.
+3. **Cordialidade e Profissionalismo**: Garantir um ambiente colaborativo e respeitoso.
+4. **Pontualidade**: Cumprir prazos para troca de informações, facilitando decisões baseadas em dados atualizados.
+
+---
+
+## Plano de Gerência de Configuração
+
+A gerência de configuração do projeto será centralizada no **SharePoint** e no **Trello**:
+
+- **SharePoint**: Repositório principal para documentos, relatórios e atas, com controle de versões.
+- **Trello**: Usado para rastreamento do progresso das atividades e tarefas, garantindo atualizações em tempo real.
+
+Essas ferramentas permitem maior transparência no controle de entregas e documentação.
+
+---
 ```diff
 + Tarefa 12:
 + Riscos do Projeto
