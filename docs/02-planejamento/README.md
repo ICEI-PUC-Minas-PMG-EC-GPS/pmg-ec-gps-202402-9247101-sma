@@ -240,7 +240,7 @@ Esse Plano de Qualidade será revisado periodicamente, garantindo que as prátic
 
 O Plano de Aquisição para o projeto de Sistema de Monitoramento Avançado para Frotas de Locadoras de Carros abrange a obtenção de bens e serviços essenciais, como sensores variados, módulos GPS, câmeras digitais e a plataforma de desenvolvimento Xilinx Zynq-7000 SoC. Inicia-se pela identificação das necessidades específicas, seguida pela seleção de fornecedores confiáveis que garantam qualidade e compatibilidade com o sistema. Em seguida, são elaborados contratos que detalham prazos, condições de pagamento, garantias e cláusulas de SLA para suporte e manutenção. A gestão do relacionamento com fornecedores é fundamental para acompanhar as entregas e resolver eventuais problemas. Além disso, são implementadas estratégias de gestão de riscos para mitigar atrasos e falhas nos componentes, e assegurar a conformidade dos produtos com os padrões de qualidade, realizando testes para validar o funcionamento adequado. Esse plano visa garantir uma aquisição eficiente e transparente, reduzindo riscos e custos, e assegurando conformidade com prazos e padrões de qualidade.
 
-
+[Sensor de proximidade](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-gps-202402-9247101-sma/blob/master/docs/02-planejamento/artefatos/Aquisicao_produtos.docx%20(1).pdf)
 # Plano de Comunicação
 
 O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. Este plano abrange:
