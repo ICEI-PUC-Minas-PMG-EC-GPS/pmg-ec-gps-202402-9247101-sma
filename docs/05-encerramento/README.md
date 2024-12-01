@@ -21,103 +21,39 @@
 ```
 
 # Encerramento do Projeto
+Gerência de Projetos de Software
+Termo de Encerramento do Projeto: SMA- Sistema de Monitoramento Avançado para Frotas de Locadoras de Carros 
+Componentes da Equipe: Júlia Guerra, Lucas Bretz e Samira Brito 
+ 
+1. Objetivo do projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O projeto foca no desenvolvimento de um sistema de monitoramento avançado para frotas de veículos de locadoras, como a Localiza. O objetivo é melhorar a gestão da frota, monitorando em tempo real diversos aspectos do veículo, como temperatura, umidade, nível de combustível, pressão dos pneus e a condição do motor. Com esses dados, o sistema permitirá a manutenção preditiva, reduzirá custos operacionais e aumentará a segurança, além de potencialmente diminuir os custos com seguros.
+ 
+2. Resumo do projeto
 
-> O Termo de Encerramento descreve uma a conclusão formal das atividades e entregas planejadas. 
-> Este documento revisa o escopo do projeto em relação ao que foi realmente entregue, documenta o sucesso ou as variações em relação aos objetivos iniciais, e destaca quaisquer pendências ou recomendações para futuros projetos similares. 
-> O Termo de Encerramento também inclui a formalização da aceitação do cliente, a transferência de responsabilidades e ativos, bem como a liberação de recursos da equipe do projeto.
+A solução desenvolvida integra sensores, GPS e câmeras em uma plataforma baseada no Zynq-7000 SoC para monitorar, em tempo real, dados como temperatura, pressão dos pneus, combustível, impactos e localização. O sistema permite análise preditiva e tomada de decisões para manutenção, segurança e economia.  
 
-## Termo de Encerramento do Projeto
+As atividades incluíram levantamento de requisitos, projeto de hardware, desenvolvimento de software, testes e validação em cenários simulados. O processo foi documentado para garantir a aplicação prática e eficiente, oferecendo uma solução escalável para gestão de frotas.
+ 
+3. Artefatos entregues
 
-O **Termo de Encerramento** formaliza a conclusão do projeto, consolidando as atividades realizadas e os resultados alcançados. Ele reflete uma análise completa do escopo planejado versus o realizado, além de destacar o desempenho do projeto, as lições aprendidas, pendências e recomendações. Este documento também registra a aceitação formal do cliente e oficializa a liberação dos recursos utilizados durante a execução.
+Os principais artefatos desenvolvidos para a solução incluem protótipos físicos e digitais, softwares personalizados e documentos técnicos, todos voltados para atender ao problema apresentado de forma eficiente e integrada.
 
----
+Foi criado um protótipo físico que integra sensores, como os de temperatura, pressão dos pneus e impacto, além de módulo GPS e câmeras, conectados à plataforma Zynq-7000 SoC. Esse protótipo foi fundamental para validar a funcionalidade e eficiência do sistema em monitorar dados em tempo real, permitindo ajustes e melhorias.
 
-### Revisão do Escopo do Projeto
+No campo de software, foram desenvolvidos firmware e aplicativos embarcados para coleta, processamento e análise dos dados capturados pelos sensores. Complementando, foram criados sistemas de visualização e geração de relatórios, que facilitam o acesso às informações processadas e apoiam a tomada de decisões pelos gestores da frota.
 
-O projeto foi iniciado com o objetivo de desenvolver um **Sistema de Monitoramento Avançado para Frotas de Locadoras de Carros**, abrangendo funcionalidades de monitoramento de temperatura, umidade, pressão dos pneus, nível de combustível, rastreamento por GPS e monitoramento visual. Durante a execução, ajustes foram feitos para atender às necessidades específicas da locadora Localiza, garantindo maior eficiência operacional.
+A documentação técnica produzida incluiu documentos arquiteturais que detalham a integração dos componentes, fluxogramas de processos para manutenção preditiva e manuais de operação. Esses documentos garantem que a solução possa ser replicada, compreendida e escalada para diferentes aplicações.
 
-#### **Entregas Realizadas**
-- **Integração de Sensores**: Instalação de sensores de temperatura, pressão e GPS compatíveis com a plataforma Xilinx Zynq-7000 SoC.
-- **Software de Monitoramento**: Desenvolvimento de um software que processa e exibe os dados em uma interface intuitiva.
-- **Interface Central**: Criação de um painel que permite ao cliente visualizar dados em tempo real, além de emitir alertas automáticos para eventos críticos, como falha de pressão nos pneus.
-- **Funcionalidade de Rastreamento**: Implementação de um sistema de rastreamento GPS com precisão aprimorada.
-- **Monitoramento Visual**: Adaptação de câmeras de bordo para captura de imagens com armazenamento na nuvem.
+Por fim, foi realizada a modelagem completa dos processos envolvidos no fluxo de dados, desde a coleta dos parâmetros no veículo até a entrega das análises aos gestores. Essa modelagem otimizou a interação entre hardware e software, assegurando um sistema eficiente e confiável.
+ 
+4. Conclusões
 
-> **Nota:** Todas as entregas foram validadas e aprovadas conforme os critérios de aceitação definidos.
+O projeto atingiu os objetivos ao desenvolver uma solução eficiente e escalável para monitoramento avançado de frotas, integrando sensores, módulo GPS, câmeras e a plataforma Zynq-7000 SoC. A coleta e análise em tempo real de dados críticos permitiram atender às demandas de manutenção preditiva, segurança e otimização operacional, reduzindo custos e aprimorando a gestão.  
 
-#### **Variações e Alterações**
-Durante o projeto, algumas alterações foram feitas em relação ao escopo original:
-1. **Adição de Alertas em Tempo Real**: Inicialmente, o sistema não previa alertas automáticos. Após reuniões com o cliente, foi decidido incluir notificações de e-mail e SMS para eventos críticos. Isso resultou em um aumento de 10% no esforço de desenvolvimento.
-2. **Mudança no Tipo de Câmeras**: As câmeras inicialmente previstas não eram compatíveis com o sistema de armazenamento em nuvem. Um novo modelo foi adquirido, gerando um pequeno atraso de 5 dias no cronograma.
+As contribuições incluem a criação de um protótipo funcional, desenvolvimento de softwares para análise e visualização de dados e documentação técnica detalhada, garantindo a replicação e escalabilidade da solução. O projeto também reforçou a relevância da integração de hardware e software para resolver problemas reais.  
 
-Essas mudanças foram aprovadas pelo cliente e integradas ao escopo, sem impacto significativo no orçamento final.
-
----
-
-### Documentação do Sucesso
-
-O sucesso do projeto foi avaliado com base nos seguintes critérios:
-- **Cumprimento do Escopo**: Todas as funcionalidades previstas foram entregues, com inclusões que agregaram valor adicional ao cliente.
-- **Respeito ao Cronograma**: Apesar de um pequeno atraso na entrega das câmeras, o projeto foi finalizado dentro do prazo ajustado.
-- **Orçamento Controlado**: O custo total do projeto excedeu o orçamento inicial em apenas 3%, devido à mudança no tipo de câmeras e inclusão de funcionalidades adicionais.
-- **Qualidade das Entregas**: O sistema foi testado rigorosamente e atingiu uma taxa de aprovação de 98% nos testes conduzidos pelo cliente.
-
----
-
-### Pendências e Recomendações
-
-#### **Pendências**
-1. **Documentação Adicional**: Completar a documentação técnica detalhada para o time de manutenção da Localiza.
-2. **Treinamento Ampliado**: Realizar um treinamento mais aprofundado com a equipe técnica do cliente para manuseio avançado do painel de monitoramento.
-
-#### **Recomendações para Projetos Futuros**
-- **Melhor Gestão de Alterações**: Definir um processo mais ágil para aprovação de mudanças, reduzindo impactos no cronograma.
-- **Monitoramento de Fornecedores**: Desenvolver contratos mais detalhados com fornecedores para garantir a entrega de materiais dentro do prazo.
-- **Investimento em Testes Automatizados**: Adicionar testes automatizados para reduzir o tempo de validação de funcionalidades críticas.
-
----
-
-### Aceitação Formal do Cliente
-
-A aceitação do cliente foi realizada em 20 de novembro de 2024, durante uma reunião presencial na sede da Localiza. As entregas foram apresentadas, testadas e aprovadas, conforme o escopo acordado.
-
-O cliente reconheceu que:
-1. Todas as funcionalidades principais foram concluídas conforme o planejado.
-2. A documentação preliminar e os treinamentos iniciais foram realizados.
-3. As alterações no escopo foram positivas e atendem às expectativas operacionais.
-
-> O cliente assinou o documento de **Termo de Aceite**, oficializando a conclusão do projeto.
-
----
-
-### Transferência de Responsabilidades e Ativos
-
-Os seguintes itens foram transferidos ao cliente:
-1. **Documentação Completa**: Manual do usuário, especificações técnicas dos sensores e guia de manutenção preventiva.
-2. **Sistema Completo**: Software instalado e configurado nos servidores do cliente, junto com os sensores integrados.
-3. **Treinamento**: Treinamento básico realizado para a equipe técnica do cliente, com ênfase no uso do painel de controle e configuração de alertas.
-
----
-
-### Liberação de Recursos
-
-Com a conclusão do projeto, os recursos foram oficialmente liberados:
-- **Equipe do Projeto**: A equipe foi desmobilizada em 21 de novembro de 2024, e seus membros foram alocados para novos projetos.
-- **Materiais e Equipamentos**: Todos os equipamentos utilizados no desenvolvimento foram devolvidos ao estoque da empresa.
-- **Orçamento**: O saldo residual do orçamento foi reintegrado à organização, sem impacto nos demais projetos em execução.
-
-
-### Conclusão Final
-
-O projeto foi encerrado com sucesso em 21 de novembro de 2024, atendendo aos objetivos estabelecidos e entregando resultados que superaram as expectativas do cliente. As lições aprendidas serão incorporadas para aprimorar futuros projetos.
-
-**Data do Encerramento:** 21 de novembro de 2024  
-**Aprovado por:**  
-**[Nome do Cliente, Assinatura]**  
-**[Gerente de Projeto, Assinatura]**
-
+Lições importantes foram aprendidas durante o processo. Planejamento detalhado foi essencial para estruturar o trabalho; a integração entre hardware e software mostrou-se desafiadora, exigindo ajustes contínuos; a gestão do tempo foi crucial para evitar atrasos; a colaboração em equipe foi determinante para superar desafios; e a documentação completa se revelou indispensável para a continuidade e disseminação do conhecimento. Essas lições fortalecem a experiência para projetos futuros.
 
 
 # Lições Aprendidas 
