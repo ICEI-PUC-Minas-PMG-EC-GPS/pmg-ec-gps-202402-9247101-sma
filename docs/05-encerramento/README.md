@@ -23,6 +23,7 @@
 # Encerramento do Projeto
 Gerência de Projetos de Software
 Termo de Encerramento do Projeto: SMA- Sistema de Monitoramento Avançado para Frotas de Locadoras de Carros 
+
 Componentes da Equipe: Júlia Guerra, Lucas Bretz e Samira Brito 
  
 1. Objetivo do projeto
