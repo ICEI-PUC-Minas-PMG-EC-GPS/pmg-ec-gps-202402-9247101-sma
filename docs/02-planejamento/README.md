@@ -14,12 +14,6 @@
   - [Plano de Comunicação](#plano-de-comunicação)
   - [Plano de Riscos](#plano-de-riscos)
 
------
-```diff
-+ Tarefa 04:
-+ Escopo e Estrutura Analítica do Projeto
-```
-
 # Escopo do Projeto
 
 O projeto **Sistema de Monitoramento Avançado para Frotas de Locadoras de Carros** tem como objetivo desenvolver uma solução tecnológica que permita o acompanhamento em tempo real de veículos pertencentes à frota de locadoras, como a Localiza. Esse monitoramento incluirá aspectos cruciais como temperatura, umidade, pressão dos pneus, nível de combustível e eficiência do motor. O objetivo central do sistema é proporcionar uma ferramenta que auxilie na manutenção preditiva, redução de custos operacionais, aumento da segurança e otimização do desempenho da frota. 
@@ -37,19 +31,6 @@ As principais premissas incluem a disponibilidade dos sensores e da infraestrutu
 - [Estrutura Analítica do Projeto - Editável](https://drive.google.com/file/d/1yG2TLAPFsRL61zsbpPlQb86z47ZYJFpG/view?usp=sharing)
 
 # Matriz de Responsabilidades
-
-> A Matriz de Responsabilidades é uma ferramenta para definir e indicar as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
-> Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
-> Ao criar uma visão visual e estruturada das responsabilidades, a matriz RACI minimiza ambiguidades e conflitos de papel.
-> Essa ferramenta não apenas esclarece as expectativas em termos de contribuições individuais, mas também contribui para um ambiente de trabalho mais organizado e transparente, resultando em uma gestão de projeto mais eficaz e bem-sucedida.
-
-> Informações Adicionais:
-> * **R**esponsible -> Executor (pessoa(s) que executará(ão)/desenvolverá(ão) a atividade)
-> * **A**ccountable -> Responsável (pessoa responsável por aprovar a atividade)
-> * **C**onsulted   -> Consultado (especialista consultado sobre a atividade ou parte dela)
-> * **I**nformed    -> Informado (pessoas interessadas no projeto que devem ser informadas sobre a execução).
-> 
-> Link de auxílio: https://www.forbes.com/advisor/business/raci-chart/
 
 ![Matriz RACI](images/Matriz_Raci.png)
 
@@ -69,43 +50,7 @@ As principais premissas incluem a disponibilidade dos sensores e da infraestrutu
 
 # Planos de Gerenciamento
 
-> Os planos de gerenciamento do projetos consolidam as diretrizes e estratégias para a execução bem-sucedida de um empreendimento. 
-> Ele abrange diversos aspectos, como escopo, cronograma, custos, riscos, qualidade, recursos humanos, comunicação e aquisições, proporcionando uma visão abrangente e integrada do projeto. 
-> Este plano funciona como um guia mestre que orienta a equipe de projeto e as partes interessadas ao longo do ciclo de vida do projeto, estabelecendo expectativas, responsabilidades e processos. 
-> Além disso, serve como um instrumento de comunicação, alinhando as expectativas entre os membros da equipe e as partes interessadas, mitigando riscos e fornecendo uma estrutura sólida para a tomada de decisões. 
-
-```diff
-+ Tarefa 09:
-+ Checklist de Qualidade
-```
-
 ## Plano de Qualidade
-
-> O Plano de Qualidade auxilia a garantir que as entregas do projeto atendam aos padrões de qualidade definidos. 
-> Este plano abrange atividades como definição de padrões, procedimentos de garantia de qualidade, critérios de aceitação e processos de monitoramento e controle da qualidade ao longo do ciclo de vida do projeto. 
-> Ao identificar metas de qualidade, responsabilidades da equipe, e métricas de avaliação, o Plano de Qualidade busca assegurar que o projeto atinja ou exceda as expectativas dos stakeholders em termos de desempenho e conformidade. 
-> A adoção de políticas de qualidade auxilia a mitigar riscos, promove a confiança nas entregas do projeto e, por fim, aumenta a probabilidade de sucesso do empreendimento. 
-
-> Referência - Conceitual
-> * https://www.researchgate.net/publication/230636169_Software_Quality_Assurance
-
-> Normas de Qualidade:
-> * https://repositorium.uminho.pt/bitstream/1822/27266/1/Tese_MEI_PG19676_Juliana%20Oliveira.pdf
-> * https://cin.ufpe.br/~processos/TAES3/Livro/00-LIVRO/07-Normas%20ISO%20e%20Qualidade%20de%20Software-v6_CORRIGIDO.pdf
-
-> Métricas de software:
-> * https://repositorio.unicamp.br/Busca/Download?codigoArquivo=489087
-> * https://lume.ufrgs.br/bitstream/handle/10183/66095/000870909.pdf?sequence=1
-> * https://www.computerweekly.com/br/tip/23-metricas-de-desenvolvimento-de-software-que-devem-ser-monitoradas
-
-> Processos de Garantia da Qualidade de Software
-> * https://ceur-ws.org/Vol-3200/paper22.pdf
-> * https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d6bd60206282a2d4449e414e81a703612ef78a0c
-> * https://www.testbytes.net/blog/quality-assurance-process-methodology/
-> * https://www.projectmanager.com/blog/quality-assurance-and-testing
-
-> Você pode utilizar como referência o seguinte documento:
-> [Checklist de Qualidade](artefatos/checklist_qualidade.docx)
 
 ### Objetivo do Plano de Qualidade
 O objetivo do Plano de Qualidade é garantir que as entregas do projeto **Sistema de Monitoramento Avançado para Frotas de Locadoras de Carros (SMA)** atendam aos padrões definidos, assegurando confiabilidade, segurança e funcionalidade. O plano abrange monitoramento contínuo dos processos, testes rigorosos e verificações para garantir conformidade com os requisitos.
@@ -407,10 +352,6 @@ O monitoramento será realizado durante as reuniões quinzenais, com revisões c
 1. **Microsoft Teams**: Para coordenação e comunicação de riscos.
 2. **Excel/Google Sheets**: Para manutenção do registro de riscos.
 3. **Jira/Trello**: Para acompanhamento de ações relacionadas aos riscos.
-```diff
-+ Tarefa 12:
-+ Fim da seção a ser atualizada.
-```
 
 -----
 
