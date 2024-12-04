@@ -136,18 +136,6 @@ Garantir que o sistema completo seja entregue à Localiza, cumprindo todos os re
 |    Lucas        | Desenvolver e manter o backend do sistema com alta performance e segurança. |    Média    |    Alta                 |    Positivo         |         Crucial para a integração eficiente com o frontend e garantindo o desempenho e a segurança do sistema.       |
 |Julia|desenvolver e manter pipelines de dados, banco de dados, projetar arquitetura de dados e garantir a segurança dos dados|Alta|Alta|Positivo|               |
 
-```diff
-+ Tarefa 01
-+ Fim da seção a ser atualizada.
-```
-
-
------
-```diff
-+ Tarefa 02
-+ Termo de Abertura do Projeto
-```
-
 # Termo de Abertura do Projeto
 
 ## Estimativa de Custo
@@ -281,18 +269,6 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 |M-7  | Treinamento dos funcionários da Localiza para uso do sistema                     | 22/10/2024               |
 |M-8  | Entrega final e homologação do sistema completo                                  | 10/11/2024               |
 
-
-```diff
-+ Tarefa 02
-+ Fim da seção a ser atualizada.
-```
-
------
-```diff
-+ Tarefa 03:
-+ Metodologia do Projeto
-```
-
 # Metodologia
 
 ### Metodologia Adotada
@@ -336,10 +312,5 @@ A equipe está dividida de acordo com as especializações de cada membro, garan
 | Programar codigo| Visual code| | Programar codigos do projeto|
 | Banco de dados |Visual code | |Desenvolver banco de dados da aws|
 || | | |
-
-```diff
-+ Tarefa 03:
-+ Fim da seção a ser atualizada.
-```
 
 ----
